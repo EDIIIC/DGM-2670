@@ -1,16 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.Events;
 
-public class DestroyEvent : MonoBehaviour {
+public class DestroyEvent : MonoBehaviour 
+{
+    public UnityEvent Event;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    private void OnDestroy()
+    {
+        Event.Invoke();
+    }
 }
