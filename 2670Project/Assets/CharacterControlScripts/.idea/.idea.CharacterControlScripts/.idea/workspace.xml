@@ -109,6 +109,7 @@
     <session id="-1493241761">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -123,6 +124,9 @@
           <entry key="C#" value="37" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.file.extensions.open" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -199,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536469750808</updated>
-      <workItem from="1536469753974" duration="748000" />
+      <workItem from="1536469753974" duration="1077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="748000" />
+    <option name="totallyTimeSpent" value="1077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
