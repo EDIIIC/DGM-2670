@@ -9,9 +9,9 @@ public class CharacterMovement : MonoBehaviour
     public float speed = 6.0F;
     public float jumpSpeed = 8.0F;
     public float gravity = 20.0F;
-
+    
     public FloatData MoveX, MoveY, MoveZ;
-
+  
     private Vector3 moveDirection = Vector3.zero;
     private CharacterController controller;
 
@@ -35,20 +35,36 @@ public class CharacterMovement : MonoBehaviour
         controller.Move(moveDirection * Time.deltaTime);
     }
 }
-//    public float speed = 6.0F;
-//    public float jumpSpeed = 8.0F;
-//    public float gravity = 20.0F;
-//   private Vector3 moveDirection = Vector3.zero;
-//    void Update() {
-//        CharacterController controller = GetComponent<CharacterController>();
-//        if (controller.isGrounded) {
-//            moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
-//            moveDirection = transform.TransformDirection(moveDirection);
-//            moveDirection *= speed;
-//            if (Input.GetButton("Jump"))
-//                moveDirection.y = jumpSpeed;
+
+/*
+[RequireComponent(typeof(CharacterController))]
+
+public class CharacterMovement : MonoBehavior
+
+    public float speed = 6.0F;
+    public float jumpSpeed = 8.0F;
+    public float gravity = 20.0F;
+    private Vector3 moveDirection = Vector3.zero;
+
+    private CharacterController controller;
+
+private void Start()
+{
+    controller = GetComponent<CharacterController>();
+}
+
+ void Update() {
+        
+        if (controller.isGrounded) {
+            moveDirection.Set(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+           // moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+            moveDirection = transform.TransformDirection(moveDirection);
+            moveDirection *= speed;
+            if (Input.GetButton("Jump"))
+                moveDirection.y = jumpSpeed;
             
-//        }
-//        moveDirection.y -= gravity * Time.deltaTime;
-//        controller.Move(moveDirection * Time.deltaTime);
-//    }
+        }
+        moveDirection.y -= gravity * Time.deltaTime;
+        controller.Move(moveDirection * Time.deltaTime);
+    }
+   */

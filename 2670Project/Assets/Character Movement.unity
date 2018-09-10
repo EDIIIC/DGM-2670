@@ -205,8 +205,8 @@ GameObject:
   - component: {fileID: 1055097859}
   - component: {fileID: 1055097858}
   - component: {fileID: 1055097857}
-  - component: {fileID: 1055097855}
   - component: {fileID: 1055097856}
+  - component: {fileID: 1055097855}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -214,21 +214,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1055097855
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1055097854}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f58538d4c9ea534c9712881aeaea75a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 6
-  jumpSpeed: 8
-  gravity: 20
---- !u!143 &1055097856
+--- !u!143 &1055097855
 CharacterController:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -245,6 +231,23 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1055097856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1055097854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f58538d4c9ea534c9712881aeaea75a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 6
+  jumpSpeed: 8
+  gravity: 20
+  MoveX: {fileID: 0}
+  MoveY: {fileID: 0}
+  MoveZ: {fileID: 0}
 --- !u!65 &1055097857
 BoxCollider:
   m_ObjectHideFlags: 0
