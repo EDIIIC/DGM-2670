@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 [CreateAssetMenu(fileName = "MovePatternNotGrounded")]
 public class MovePatternNotGrounded : MovePattern {
