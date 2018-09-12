@@ -1,18 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 //[RequiredComponent(typeof(CharacterController))]
 
-
-public class CharacterMovement : MonoBehaviour
+//CharacterMovement = CharacterControlScripts?
+public class CharacterMovement : MonoBehavior
 {
 
     private CharacterController controller;
     public MovePattern Pattern
 
-    private void Start()
-    {
+    private void Start() {
         controller = GetComponent<CharacterController>();
     }
 
