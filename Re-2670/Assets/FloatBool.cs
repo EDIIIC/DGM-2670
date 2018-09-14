@@ -12,13 +12,7 @@ public class FloatBool : FloatInput
             {
                 return value;
             }
-
-            return value;
-
-            {
-                return 0;
-            }
+            return 0;
         }
     }
-
 }

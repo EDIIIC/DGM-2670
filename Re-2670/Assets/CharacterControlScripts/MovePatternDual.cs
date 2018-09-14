@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 
-[CreateAssetMenu(fileNAme = "MovePatternDual")]
+
+[CreateAssetMenu(fileName = "MovePatternDual")]
 public class MovePatternDual : MovePattern
 {
 	private bool doubleJump;
@@ -17,7 +18,7 @@ public class MovePatternDual : MovePattern
 			
 			if (doubleJump)
 			{
-				move(transform);
+				Move(transform);
 				doubleJump = false;
 			}
 		}
