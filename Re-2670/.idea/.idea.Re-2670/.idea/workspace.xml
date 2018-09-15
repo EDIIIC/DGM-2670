@@ -35,22 +35,12 @@
       <change beforePath="$PROJECT_DIR$/../2670Project/Assets/MovePattern.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../2670Project/Assets/MovePattern.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2670Project/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../2670Project/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2670Project/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../2670Project/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Character.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Character.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterControlScripts/CharacterMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterControlScripts/CharacterMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterControlScripts/MovePattern.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterControlScripts/MovePattern.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternDual.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternDual.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternNotGrounded.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternNotGrounded.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/FloatBool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FloatBool.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,10 +82,10 @@
     <session id="-1925741272">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="4" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -192,11 +182,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/Movement/MovePatternNotGrounded.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <marker date="1536784120000" expanded="true" signature="125:276" ph="{...}" />
                 <marker date="1536784120000" expanded="true" signature="211:274" ph="{...}" />
@@ -205,7 +195,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/Movement/CharacterMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -257,8 +247,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="641" />
-    <option name="y" value="23" />
+    <option name="x" value="49" />
+    <option name="y" value="48" />
     <option name="width" value="1400" />
     <option name="height" value="907" />
   </component>
@@ -268,7 +258,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -298,9 +290,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,11 +345,12 @@
       <workItem from="1536965792088" duration="22000" />
       <workItem from="1536965914559" duration="39000" />
       <workItem from="1536968993357" duration="989000" />
+      <workItem from="1537038364813" duration="188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9147000" />
+    <option name="totallyTimeSpent" value="9335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,10 +362,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="641" y="23" width="1400" height="907" extended-state="0" />
+    <frame x="49" y="48" width="1400" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16789396" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17010309" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -419,13 +410,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/NewBehaviourScript.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/CharacterMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternDual.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternNotGrounded.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/MovePattern.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/FloatBool.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -469,36 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternDual.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternNotGrounded.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/MovePattern.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/Movement/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <marker date="1536969294000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536969294000" expanded="true" signature="175:392" ph="{...}" />
-            <marker date="1536969294000" expanded="true" signature="265:323" ph="{...}" />
-            <marker date="1536969294000" expanded="true" signature="343:390" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/Movement/MovePattern.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -517,10 +475,23 @@
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/Movement/MovePatternNotGrounded.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <marker date="1536784120000" expanded="true" signature="125:276" ph="{...}" />
             <marker date="1536784120000" expanded="true" signature="211:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/Movement/CharacterMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1536969294000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1536969294000" expanded="true" signature="175:392" ph="{...}" />
+            <marker date="1536969294000" expanded="true" signature="265:323" ph="{...}" />
+            <marker date="1536969294000" expanded="true" signature="343:390" ph="{...}" />
           </folding>
         </state>
       </provider>
