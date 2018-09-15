@@ -15,7 +15,8 @@ public class CharacterMovement : MonoBehaviour
 		controller = GetComponent<CharacterController>();
 	}
 		
-	void Update () {
+	void Update () 
+	{
 		Pattern.Invoke(controller, transform);
 	}
 }
