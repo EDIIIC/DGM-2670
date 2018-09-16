@@ -5,9 +5,9 @@
 
 [CreateAssetMenu]
 public class MovePattern : ScriptableObject 
-{
- 
-    public float gravity;
+{ 
+    public FloatData JumpSpeed;
+    public FloatData Gravity;
     
     public FloatData MoveX, MoveY, MoveZ;
     public FloatData RotX, RotY, RotZ;
