@@ -1,8 +1,5 @@
 ﻿using UnityEngine;
 
-
-
-
 [CreateAssetMenu]
 public class MovePattern : ScriptableObject 
 { 

@@ -2,13 +2,149 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a9767b1-fdc5-4dfc-aa8b-5dcea63878a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FloatBool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FloatBool.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/db.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/db.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/._CharacterController.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/._CharacterController.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/._CharacterController.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/._CharacterController.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AIAgent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AIAgent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CharacterController.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CharacterController.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CharacterController.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CharacterController.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FloatBool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FloatBool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewEvent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewEvent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Character.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Character.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemy.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemy.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/0.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/0.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/0.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/0.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/1.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/1.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/2.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/2.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/3.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/3.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/3.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/4.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/4.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/4.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/5.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/5.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/5.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/FloatData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/FloatData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/FloatInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/FloatInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H3.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H3.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H3.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Horizontal.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Horizontal.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Horizontal.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Horizontal.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Jump4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Jump4.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Jump4.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Jump4.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/V3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/V3.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/V3.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/V3.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/V6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/V6.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/V6.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/V6.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Vertical.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Vertical.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Vertical.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Vertical.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Floor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Floor.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Floor.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/AirPlane.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/AirPlane.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/AirPlane.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/AirPlane.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Jump.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Jump.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Jump.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Jump.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Wheels.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Wheels.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Wheels.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Wheels.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Double Jump.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Double Jump.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Double Jump.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Double Jump.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Regular.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Regular.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Regular.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Regular.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/CharacterMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/CharacterMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePatternDual.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePatternDual.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePatternNotGrounded.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePatternNotGrounded.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/._Fixing2670.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/._Fixing2670.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.#DestroyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.#DestroyEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/._DestroyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/._DestroyEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/._MouseDownEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/._MouseDownEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/DestroyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/DestroyEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/DestroyEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/DestroyEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/MouseDownEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/MouseDownEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/MouseDownEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/MouseDownEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/TriggerEnterEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/TriggerEnterEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/TriggerEnterEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/TriggerEnterEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/UpdateEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/UpdateEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/UpdateEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/UpdateEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,32 +154,32 @@
     <session id="1137606760">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1158" />
+          <entry key="cs" value="1830" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1158" />
+          <entry key="C#" value="1830" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="5" />
+          <entry key="cs" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="5" />
+          <entry key="C#" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -84,33 +220,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/FloatBool.cs">
+      <file leaf-file-name="RunCountDown.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
-                <marker date="1536903300000" expanded="true" signature="132:300" ph="{...}" />
-                <marker date="1536903300000" expanded="true" signature="150:294" ph="{...}" />
-                <marker date="1536903300000" expanded="true" signature="204:262" ph="{...}" />
+                <marker date="1537385762000" expanded="false" signature="6:100" ph="..." />
+                <marker date="1537385762000" expanded="true" signature="143:509" ph="{...}" />
+                <marker date="1537385762000" expanded="true" signature="189:507" ph="{...}" />
+                <marker date="1537385762000" expanded="true" signature="267:425" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Resources/FloatData/FloatInput.cs">
+      <file leaf-file-name="ForEachLoops.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="360">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
-                <marker date="1536903134000" expanded="true" signature="164:230" ph="{...}" />
+                <marker date="1537386714000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537386714000" expanded="true" signature="142:488" ph="{...}" />
+                <marker date="1537386714000" expanded="true" signature="241:484" ph="{...}" />
+                <marker date="1537386714000" expanded="true" signature="405:481" ph="{...}" />
+                <marker date="1537386714000" expanded="true" signature="432:477" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/CharacterMovement.cs">
+      <file leaf-file-name="CharacterMovement.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
@@ -124,48 +266,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/AIAgent.cs">
+      <file leaf-file-name="MovePattern.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="555">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
               <folding>
-                <marker date="1537215100000" expanded="false" signature="6:40" ph="..." />
-                <marker date="1537215100000" expanded="true" signature="120:633" ph="{...}" />
-                <marker date="1537215100000" expanded="true" signature="272:350" ph="{...}" />
-                <marker date="1537215100000" expanded="true" signature="394:470" ph="{...}" />
-                <marker date="1537215100000" expanded="true" signature="514:552" ph="{...}" />
-                <marker date="1537215100000" expanded="true" signature="576:631" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-              <folding>
-                <marker date="1537135742000" expanded="true" signature="85:1027" ph="{...}" />
-                <marker date="1537135742000" expanded="true" signature="391:514" ph="{...}" />
-                <marker date="1537135742000" expanded="true" signature="432:481" ph="{...}" />
-                <marker date="1537135742000" expanded="true" signature="571:729" ph="{...}" />
-                <marker date="1537135742000" expanded="true" signature="611:723" ph="/* moveDirection.y -= gravity.Value * Time.deltaTime; ... */" />
-                <marker date="1537135742000" expanded="true" signature="775:1024" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/NewEvent.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <marker date="1536771862000" expanded="true" signature="6:44" ph="..." />
-                <marker date="1536771862000" expanded="true" signature="141:165" ph="{...}" />
+                <marker date="1537387484000" expanded="true" signature="82:1024" ph="{...}" />
+                <marker date="1537387484000" expanded="true" signature="388:511" ph="{...}" />
+                <marker date="1537387484000" expanded="true" signature="429:478" ph="{...}" />
+                <marker date="1537387484000" expanded="true" signature="568:726" ph="{...}" />
+                <marker date="1537387484000" expanded="true" signature="608:720" ph="/* moveDirection.y -= gravity.Value * Time.deltaTime; ... */" />
+                <marker date="1537387484000" expanded="true" signature="772:1021" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -177,12 +289,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/NewEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Resources/FloatData/FloatInput.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AIAgent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FloatBool.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -199,6 +309,9 @@
         <option value="$PROJECT_DIR$/Assets/CharacterControlScripts/Movement/MovePattern.cs" />
         <option value="$PROJECT_DIR$/Assets/AIAgent.cs" />
         <option value="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" />
       </list>
     </option>
   </component>
@@ -208,9 +321,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,9 +331,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -233,6 +344,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="SolutionExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -253,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager" selected="Attach Unity.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
@@ -262,11 +374,9 @@
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
-      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+      <item itemvalue="Attach Unity.Attach to Unity Editor" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -298,11 +408,13 @@
       <workItem from="1537216256826" duration="27000" />
       <workItem from="1537225104956" duration="104000" />
       <workItem from="1537304999492" duration="139000" />
+      <workItem from="1537384608492" duration="2038000" />
+      <workItem from="1537387410107" duration="74000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14829000" />
+    <option name="totallyTimeSpent" value="16941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,37 +426,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15873016" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32883435" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16344085" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Unity" order="8" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -360,6 +472,46 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1537385762000" expanded="false" signature="6:100" ph="..." />
+            <marker date="1537385762000" expanded="true" signature="143:509" ph="{...}" />
+            <marker date="1537385762000" expanded="true" signature="189:507" ph="{...}" />
+            <marker date="1537385762000" expanded="true" signature="267:425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1537386714000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537386714000" expanded="true" signature="142:488" ph="{...}" />
+            <marker date="1537386714000" expanded="true" signature="241:484" ph="{...}" />
+            <marker date="1537386714000" expanded="true" signature="405:481" ph="{...}" />
+            <marker date="1537386714000" expanded="true" signature="432:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1537135660000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537135660000" expanded="true" signature="175:392" ph="{...}" />
+            <marker date="1537135660000" expanded="true" signature="265:323" ph="{...}" />
+            <marker date="1537135660000" expanded="true" signature="343:390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/NewBehaviourScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/CharacterMovement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternDual.cs" />
@@ -374,46 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <marker date="1536903300000" expanded="true" signature="132:300" ph="{...}" />
-            <marker date="1536903300000" expanded="true" signature="150:294" ph="{...}" />
-            <marker date="1536903300000" expanded="true" signature="204:262" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Resources/FloatData/FloatInput.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1536903134000" expanded="true" signature="164:230" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/NewEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <marker date="1536771862000" expanded="true" signature="6:44" ph="..." />
-            <marker date="1536771862000" expanded="true" signature="141:165" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <marker date="1537135742000" expanded="true" signature="85:1027" ph="{...}" />
-            <marker date="1537135742000" expanded="true" signature="391:514" ph="{...}" />
-            <marker date="1537135742000" expanded="true" signature="432:481" ph="{...}" />
-            <marker date="1537135742000" expanded="true" signature="571:729" ph="{...}" />
-            <marker date="1537135742000" expanded="true" signature="611:723" ph="/* moveDirection.y -= gravity.Value * Time.deltaTime; ... */" />
-            <marker date="1537135742000" expanded="true" signature="775:1024" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,18 +533,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <marker date="1537215100000" expanded="false" signature="6:40" ph="..." />
-            <marker date="1537215100000" expanded="true" signature="120:633" ph="{...}" />
-            <marker date="1537215100000" expanded="true" signature="272:350" ph="{...}" />
-            <marker date="1537215100000" expanded="true" signature="394:470" ph="{...}" />
-            <marker date="1537215100000" expanded="true" signature="514:552" ph="{...}" />
-            <marker date="1537215100000" expanded="true" signature="576:631" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/CharacterMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1537385762000" expanded="false" signature="6:100" ph="..." />
+            <marker date="1537385762000" expanded="true" signature="143:509" ph="{...}" />
+            <marker date="1537385762000" expanded="true" signature="189:507" ph="{...}" />
+            <marker date="1537385762000" expanded="true" signature="267:425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1537386714000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537386714000" expanded="true" signature="142:488" ph="{...}" />
+            <marker date="1537386714000" expanded="true" signature="241:484" ph="{...}" />
+            <marker date="1537386714000" expanded="true" signature="405:481" ph="{...}" />
+            <marker date="1537386714000" expanded="true" signature="432:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
@@ -441,6 +593,21 @@
             <marker date="1537135660000" expanded="true" signature="175:392" ph="{...}" />
             <marker date="1537135660000" expanded="true" signature="265:323" ph="{...}" />
             <marker date="1537135660000" expanded="true" signature="343:390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <marker date="1537387484000" expanded="true" signature="82:1024" ph="{...}" />
+            <marker date="1537387484000" expanded="true" signature="388:511" ph="{...}" />
+            <marker date="1537387484000" expanded="true" signature="429:478" ph="{...}" />
+            <marker date="1537387484000" expanded="true" signature="568:726" ph="{...}" />
+            <marker date="1537387484000" expanded="true" signature="608:720" ph="/* moveDirection.y -= gravity.Value * Time.deltaTime; ... */" />
+            <marker date="1537387484000" expanded="true" signature="772:1021" ph="{...}" />
           </folding>
         </state>
       </provider>
