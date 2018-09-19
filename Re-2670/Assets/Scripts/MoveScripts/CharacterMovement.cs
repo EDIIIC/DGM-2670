@@ -1,13 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿//using System.Collections;
+//using System.Collections.Generic;
 using UnityEngine;
+using System.Collections;
 
 [RequireComponent(typeof(CharacterController))]
 
 public class CharacterMovement : MonoBehaviour
 {
 
-	private CharacterController controller;
+	private CharacterController controller; //moves object
 	public MovePattern Pattern;
 	
 	void Start ()
