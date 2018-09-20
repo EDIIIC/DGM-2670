@@ -16,18 +16,21 @@ public class AIAgent : MonoBehaviour {
 		agent.speed = Speed.Value;		
 		finalDestination = transform;
 	}
-
+	
+	
 	private void OnTriggerEnter(Collider obj)
 	{
 		if(obj.transform == Destination)
 		finalDestination = Destination;
 	}
 	
+	
 	private void OnTriggerExit(Collider obj)
 	{
 		finalDestination = PostPoint;
 	}
 
+	
 	private void Update()
 	{
 		agent.destination = finalDestination.position;

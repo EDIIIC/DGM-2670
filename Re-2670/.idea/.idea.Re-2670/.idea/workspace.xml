@@ -16,14 +16,8 @@
       <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/._CharacterController.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/._CharacterController.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/._CharacterController.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/._CharacterController.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AIAgent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AIAgent.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CharacterController.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CharacterController.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CharacterController.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CharacterController.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FloatBool.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FloatBool.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NewEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NewEvent.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
@@ -50,10 +44,8 @@
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/FloatData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/FloatData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/FloatInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/FloatInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed3.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed3.asset.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset" afterDir="false" />
@@ -87,17 +79,10 @@
       <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/CharacterMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/CharacterMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePatternDual.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePatternDual.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePatternNotGrounded.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePatternNotGrounded.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/._Fixing2670.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/._Fixing2670.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.meta" afterDir="false" />
@@ -107,6 +92,30 @@
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatInput.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatInput.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NewEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.#DestroyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.#DestroyEvent.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/._DestroyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/._DestroyEvent.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/._MouseDownEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/._MouseDownEvent.cs" afterDir="false" />
@@ -144,7 +153,6 @@
       <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,32 +162,32 @@
     <session id="1137606760">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1830" />
+          <entry key="cs" value="1899" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1830" />
+          <entry key="C#" value="1899" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="8" />
+          <entry key="cs" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="8" />
+          <entry key="C#" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -220,21 +228,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RunCountDown.cs" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="375">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
               <folding>
-                <marker date="1537385762000" expanded="false" signature="6:100" ph="..." />
-                <marker date="1537385762000" expanded="true" signature="189:507" ph="{...}" />
-                <marker date="1537385762000" expanded="true" signature="267:425" ph="{...}" />
+                <marker date="1537474282000" expanded="false" signature="6:100" ph="..." />
+                <marker date="1537474282000" expanded="true" signature="143:647" ph="{...}" />
+                <marker date="1537474282000" expanded="true" signature="189:645" ph="{...}" />
+                <marker date="1537474282000" expanded="true" signature="265:423" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForEachLoops.cs" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -250,27 +259,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CharacterMovement.cs" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <marker date="1537389090000" expanded="true" signature="0:63" ph="/* using System.Collections; ... */" />
-                <marker date="1537389090000" expanded="true" signature="70:108" ph="..." />
-                <marker date="1537389090000" expanded="true" signature="205:437" ph="{...}" />
-                <marker date="1537389090000" expanded="true" signature="310:368" ph="{...}" />
-                <marker date="1537389090000" expanded="true" signature="388:435" ph="{...}" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovePattern.cs" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="330">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <marker date="1537387484000" expanded="true" signature="82:1024" ph="{...}" />
                 <marker date="1537387484000" expanded="true" signature="388:511" ph="{...}" />
@@ -283,18 +285,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AIAgent.cs" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="555">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <marker date="1537389090000" expanded="true" signature="6:40" ph="..." />
-                <marker date="1537389090000" expanded="true" signature="120:689" ph="{...}" />
-                <marker date="1537389090000" expanded="true" signature="298:407" ph="{...}" />
-                <marker date="1537389090000" expanded="true" signature="451:526" ph="{...}" />
-                <marker date="1537389090000" expanded="true" signature="570:608" ph="{...}" />
-                <marker date="1537389090000" expanded="true" signature="632:687" ph="{...}" />
+                <marker date="1537471374000" expanded="false" signature="6:40" ph="..." />
+                <marker date="1537471374000" expanded="true" signature="120:696" ph="{...}" />
+                <marker date="1537471374000" expanded="true" signature="298:407" ph="{...}" />
+                <marker date="1537471374000" expanded="true" signature="454:529" ph="{...}" />
+                <marker date="1537471374000" expanded="true" signature="575:613" ph="{...}" />
+                <marker date="1537471374000" expanded="true" signature="639:694" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIhealth.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <marker date="1537472838000" expanded="true" signature="56:624" ph="{...}" />
+                <marker date="1537472838000" expanded="true" signature="86:256" ph="/* private bool MePlayer(){ ... */" />
+                <marker date="1537472838000" expanded="true" signature="305:425" ph="{...}" />
+                <marker date="1537472838000" expanded="true" signature="357:419" ph="{...}" />
+                <marker date="1537472838000" expanded="true" signature="459:489" ph="{...}" />
+                <marker date="1537472838000" expanded="true" signature="545:622" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -306,11 +325,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIhealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -327,11 +347,12 @@
         <option value="$PROJECT_DIR$/Assets/CharacterControlScripts/Movement/MovePattern.cs" />
         <option value="$PROJECT_DIR$/Assets/AIAgent.cs" />
         <option value="$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIhealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" />
       </list>
     </option>
   </component>
@@ -341,9 +362,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -351,21 +372,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
             <path>
-              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Re-2670" type="483dac07:UnityExplorerNode$Root" />
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer" />
-      <pane id="Scratches" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,7 +412,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Attach Unity.Attach to Unity Editor">
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
@@ -394,9 +421,11 @@
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Attach Unity.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -431,11 +460,13 @@
       <workItem from="1537384608492" duration="2038000" />
       <workItem from="1537387410107" duration="74000" />
       <workItem from="1537387934191" duration="1270000" />
+      <workItem from="1537389475280" duration="288000" />
+      <workItem from="1537470579028" duration="1880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18211000" />
+    <option name="totallyTimeSpent" value="20379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,37 +478,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32883435" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16505377" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16849817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32883435" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -493,101 +524,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <marker date="1537385762000" expanded="false" signature="6:100" ph="..." />
-            <marker date="1537385762000" expanded="true" signature="189:507" ph="{...}" />
-            <marker date="1537385762000" expanded="true" signature="267:425" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <marker date="1537386714000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537386714000" expanded="true" signature="142:488" ph="{...}" />
-            <marker date="1537386714000" expanded="true" signature="241:484" ph="{...}" />
-            <marker date="1537386714000" expanded="true" signature="405:481" ph="{...}" />
-            <marker date="1537386714000" expanded="true" signature="432:477" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <marker date="1537389090000" expanded="true" signature="0:63" ph="/* using System.Collections; ... */" />
-            <marker date="1537389090000" expanded="true" signature="70:108" ph="..." />
-            <marker date="1537389090000" expanded="true" signature="205:437" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="310:368" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="388:435" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-          <folding>
-            <marker date="1537387484000" expanded="true" signature="82:1024" ph="{...}" />
-            <marker date="1537387484000" expanded="true" signature="388:511" ph="{...}" />
-            <marker date="1537387484000" expanded="true" signature="429:478" ph="{...}" />
-            <marker date="1537387484000" expanded="true" signature="568:726" ph="{...}" />
-            <marker date="1537387484000" expanded="true" signature="608:720" ph="/* moveDirection.y -= gravity.Value * Time.deltaTime; ... */" />
-            <marker date="1537387484000" expanded="true" signature="772:1021" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <marker date="1537385762000" expanded="false" signature="6:100" ph="..." />
-            <marker date="1537385762000" expanded="true" signature="189:507" ph="{...}" />
-            <marker date="1537385762000" expanded="true" signature="267:425" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <marker date="1537386714000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537386714000" expanded="true" signature="142:488" ph="{...}" />
-            <marker date="1537386714000" expanded="true" signature="241:484" ph="{...}" />
-            <marker date="1537386714000" expanded="true" signature="405:481" ph="{...}" />
-            <marker date="1537386714000" expanded="true" signature="432:477" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <marker date="1537389090000" expanded="true" signature="0:63" ph="/* using System.Collections; ... */" />
-            <marker date="1537389090000" expanded="true" signature="70:108" ph="..." />
-            <marker date="1537389090000" expanded="true" signature="205:437" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="310:368" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="388:435" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/NewBehaviourScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/CharacterMovement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/CharacterControlScripts/MovePatternDual.cs" />
@@ -603,18 +539,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/MovePattern.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/NewEvent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Resources/MoveScripts/CharacterMovement.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <marker date="1537385762000" expanded="false" signature="6:100" ph="..." />
-            <marker date="1537385762000" expanded="true" signature="189:507" ph="{...}" />
-            <marker date="1537385762000" expanded="true" signature="267:425" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -629,39 +553,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <marker date="1537389090000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1537389090000" expanded="true" signature="120:689" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="298:407" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="451:526" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="570:608" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="632:687" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <marker date="1537389090000" expanded="true" signature="0:63" ph="/* using System.Collections; ... */" />
-            <marker date="1537389090000" expanded="true" signature="70:108" ph="..." />
-            <marker date="1537389090000" expanded="true" signature="205:437" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="310:368" ph="{...}" />
-            <marker date="1537389090000" expanded="true" signature="388:435" ph="{...}" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <marker date="1537387484000" expanded="true" signature="82:1024" ph="{...}" />
             <marker date="1537387484000" expanded="true" signature="388:511" ph="{...}" />
@@ -669,6 +571,49 @@
             <marker date="1537387484000" expanded="true" signature="568:726" ph="{...}" />
             <marker date="1537387484000" expanded="true" signature="608:720" ph="/* moveDirection.y -= gravity.Value * Time.deltaTime; ... */" />
             <marker date="1537387484000" expanded="true" signature="772:1021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1537471374000" expanded="false" signature="6:40" ph="..." />
+            <marker date="1537471374000" expanded="true" signature="120:696" ph="{...}" />
+            <marker date="1537471374000" expanded="true" signature="298:407" ph="{...}" />
+            <marker date="1537471374000" expanded="true" signature="454:529" ph="{...}" />
+            <marker date="1537471374000" expanded="true" signature="575:613" ph="{...}" />
+            <marker date="1537471374000" expanded="true" signature="639:694" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIhealth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1537472838000" expanded="true" signature="56:624" ph="{...}" />
+            <marker date="1537472838000" expanded="true" signature="86:256" ph="/* private bool MePlayer(){ ... */" />
+            <marker date="1537472838000" expanded="true" signature="305:425" ph="{...}" />
+            <marker date="1537472838000" expanded="true" signature="357:419" ph="{...}" />
+            <marker date="1537472838000" expanded="true" signature="459:489" ph="{...}" />
+            <marker date="1537472838000" expanded="true" signature="545:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <marker date="1537474282000" expanded="false" signature="6:100" ph="..." />
+            <marker date="1537474282000" expanded="true" signature="143:647" ph="{...}" />
+            <marker date="1537474282000" expanded="true" signature="189:645" ph="{...}" />
+            <marker date="1537474282000" expanded="true" signature="265:423" ph="{...}" />
           </folding>
         </state>
       </provider>

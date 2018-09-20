@@ -12,7 +12,7 @@ public class RunCountDown : MonoBehaviour
 	{
 		label = GetComponent<Text>();
 
-		int number = 100;
+		int number = 3;
 
 		while (number > 0)
 		{
@@ -21,8 +21,12 @@ public class RunCountDown : MonoBehaviour
 			label.text = number.ToString();
 			number--;
 		}
-		label.text = "";
+		label.text = "1";
 		yield return new WaitForSeconds(1);
+		label.text = "Get on top of the citadel";
+		yield return new WaitForSeconds(2);
 		label.text = "GO!";
+		yield return new WaitForSeconds(3);
+		label.text = "";
 	}
 }
