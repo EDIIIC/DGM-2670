@@ -2,27 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a9767b1-fdc5-4dfc-aa8b-5dcea63878a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Character.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Character.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Character.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Character.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,12 +117,12 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1537476698000" expanded="true" signature="6:53" ph="..." />
+                <marker date="1537476698000" expanded="false" signature="6:53" ph="..." />
                 <marker date="1537476698000" expanded="true" signature="97:654" ph="{...}" />
                 <marker date="1537476698000" expanded="true" signature="150:298" ph="{...}" />
                 <marker date="1537476698000" expanded="true" signature="193:295" ph="{...}" />
@@ -156,7 +152,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -369,12 +365,12 @@
       <workItem from="1537389475280" duration="288000" />
       <workItem from="1537470579028" duration="2226000" />
       <workItem from="1537476588672" duration="416000" />
-      <workItem from="1537477184130" duration="44000" />
+      <workItem from="1537477184130" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21185000" />
+    <option name="totallyTimeSpent" value="21354000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -463,23 +459,6 @@
     <entry file="file://$PROJECT_DIR$/../../../OLDPROJECTS2017-2018/Coding1600/Space/Assets/Scripts/LevelManager.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1537476698000" expanded="true" signature="6:53" ph="..." />
-            <marker date="1537476698000" expanded="true" signature="97:654" ph="{...}" />
-            <marker date="1537476698000" expanded="true" signature="150:298" ph="{...}" />
-            <marker date="1537476698000" expanded="true" signature="193:295" ph="{...}" />
-            <marker date="1537476698000" expanded="true" signature="338:374" ph="{...}" />
-            <marker date="1537476698000" expanded="true" signature="402:453" ph="{...}" />
-            <marker date="1537476698000" expanded="true" signature="484:561" ph="{...}" />
-            <marker date="1537476698000" expanded="true" signature="596:651" ph="{...}" />
-            <marker date="1537476698000" expanded="true" signature="622:648" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -548,6 +527,23 @@
             <marker date="1537477226000" expanded="true" signature="204:488" ph="{...}" />
             <marker date="1537477226000" expanded="true" signature="361:419" ph="{...}" />
             <marker date="1537477226000" expanded="true" signature="439:486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537476698000" expanded="false" signature="6:53" ph="..." />
+            <marker date="1537476698000" expanded="true" signature="97:654" ph="{...}" />
+            <marker date="1537476698000" expanded="true" signature="150:298" ph="{...}" />
+            <marker date="1537476698000" expanded="true" signature="193:295" ph="{...}" />
+            <marker date="1537476698000" expanded="true" signature="338:374" ph="{...}" />
+            <marker date="1537476698000" expanded="true" signature="402:453" ph="{...}" />
+            <marker date="1537476698000" expanded="true" signature="484:561" ph="{...}" />
+            <marker date="1537476698000" expanded="true" signature="596:651" ph="{...}" />
+            <marker date="1537476698000" expanded="true" signature="622:648" ph="{...}" />
           </folding>
         </state>
       </provider>
