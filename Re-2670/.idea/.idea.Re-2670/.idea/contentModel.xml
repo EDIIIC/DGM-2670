@@ -13,6 +13,7 @@
           <e p="FloatData.cs" t="Include" />
           <e p="FloatInput.cs" t="Include" />
           <e p="ForEachLoops.cs" t="Include" />
+          <e p="LevelManager.cs" t="Include" />
           <e p="MoveScripts" t="Include">
             <e p="CharacterMovement.cs" t="Include" />
             <e p="MovePattern.cs" t="Include" />
