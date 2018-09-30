@@ -481,9 +481,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c4ef1ad4588540dbb750fab9c77feb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 0
+  health: 3
   levelManager: {fileID: 809487505}
-  Pattern: {fileID: 11400000, guid: 14c987d53dfd7496c88d2f762a175f1b, type: 2}
+  Pattern: {fileID: 11400000, guid: 4556eff3e8d52400085df488dce28d1f, type: 2}
 --- !u!143 &1779800699
 CharacterController:
   m_ObjectHideFlags: 0

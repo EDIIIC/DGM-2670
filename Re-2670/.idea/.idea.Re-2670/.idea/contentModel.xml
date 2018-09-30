@@ -21,6 +21,7 @@
             <e p="MovePattern.cs" t="Include" />
             <e p="MovePatternDual.cs" t="Include" />
             <e p="MovePatternNotGrounded.cs" t="Include" />
+            <e p="OldMoveScript.cs" t="Include" />
           </e>
           <e p="NewEvent.cs" t="Include" />
           <e p="RunCountDown.cs" t="Include" />

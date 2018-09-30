@@ -39,7 +39,13 @@ public class MovePattern : ScriptableObject
 
 
 
+
+
+
+
+
 /*
+// BROKEN
 using UnityEngine;
 
 [CreateAssetMenu]
