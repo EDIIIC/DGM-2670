@@ -10,7 +10,7 @@ public class MovePatternDual : MovePattern
 	{
 		if (controller.isGrounded)
 		{
-			Move(transform);			
+			MoveTran(transform);			
 			doubleJump = true;
 		}
 		else
@@ -18,11 +18,11 @@ public class MovePatternDual : MovePattern
 			
 			if (doubleJump)
 			{
-				Move(transform);
+				MoveTran(transform);
 				doubleJump = false;
 			}
 		}
 
-		Move(controller);
+		MoveCon(controller);
 	}
 }
