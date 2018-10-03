@@ -2,228 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a9767b1-fdc5-4dfc-aa8b-5dcea63878a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/UserPrefs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/db.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/db.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Re-2670/xs/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/._CharacterController.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/._CharacterController.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/._CharacterController.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/._CharacterController.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterController.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CharacterController.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterController.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CharacterController.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Character.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Character.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Character.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Character.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemy.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemy.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemy.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/0.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/0.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/0.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/0.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/1.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/1.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/2.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/2.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/3.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/3.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/4.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/4.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/4.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/5.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/5.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/5.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/6.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/9.81.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed4.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed4.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed4.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H1.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H2.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/H3.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/H3.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Horizontal.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Horizontal.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Horizontal.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Horizontal.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Jump4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Jump4.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Jump4.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Jump4.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/V3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/V3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/V3.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/V3.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/V6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/V6.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/V6.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/V6.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Vertical.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Vertical.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/Vertical.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/Vertical.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Floor.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Floor.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/A.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/A.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/A.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/A.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/B.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/B.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/B.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/B.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/C.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/C.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/C.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/C.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/D.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/D.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/D.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/D.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/E.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/E.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/E.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/E.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/F.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/F.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/F.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/F.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/G.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/G.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/G.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/G.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/H.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/H.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/H.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/H.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/I.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/I.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/I.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/I.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/J.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/J.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/J.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/J.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/K.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/K.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/K.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/K.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/L.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/L.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/L.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/L.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/M.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/M.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/M.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/M.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/N.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/N.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/N.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/N.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/O.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/O.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/O.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/O.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/P.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/P.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/P.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/P.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/Q.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/Q.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/Q.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/Q.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/R.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/R.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/R.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/R.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/S.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/S.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/S.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/S.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/T.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/T.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/T.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/T.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/U.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/U.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/U.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/U.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/V.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/V.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/V.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/V.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/W.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/W.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/W.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/W.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/X.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/X.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/X.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/X.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/Y.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/Y.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/Y.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/Y.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/Z.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/Z.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Letters/Z.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Letters/Z.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/AirPlane.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/AirPlane.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/AirPlane.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/AirPlane.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Jump.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Jump.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Jump.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Jump.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Wheels.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Wheels.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Wheels.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Auto Wheels.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Double Jump.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Double Jump.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Double Jump.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Double Jump.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Regular.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Regular.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Regular.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Regular.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Zero.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/._Fixing2670.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/._Fixing2670.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/JumperGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/JumperGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/JumperGame.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/JumperGame.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents/NavMesh.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/WordGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/WordGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/WordGame.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/WordGame.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AIhealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AIhealth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AIhealth.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AIhealth.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatInput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatInput.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatInput.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Letter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letter.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Letter.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letters.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Letters.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letters.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Letters.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letters.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letters.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/OldMoveScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/OldMoveScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/OldMoveScript.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/OldMoveScript.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NameID.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NameID.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NameID.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NameID.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NewEvent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NameID.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NameID.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectID.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Word.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Word.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Word.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Word.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.#DestroyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.#DestroyEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/._DestroyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/._DestroyEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/._MouseDownEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/._MouseDownEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/.idea/.idea.EventBasedBehaviors/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/DestroyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/DestroyEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/DestroyEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/DestroyEvent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/MouseDownEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/MouseDownEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/MouseDownEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/MouseDownEvent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/TriggerEnterEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/TriggerEnterEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/TriggerEnterEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/TriggerEnterEvent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/UpdateEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/UpdateEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventBasedBehaviors/UpdateEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/EventBasedBehaviors/UpdateEvent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -303,30 +111,30 @@
     <session id="-1672070209">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="12" />
+          <entry key="cs" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="12" />
+          <entry key="C#" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1612" />
+          <entry key="cs" value="2181" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1612" />
+          <entry key="C#" value="2181" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -335,36 +143,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1536770640000" expanded="true" signature="79:163" ph="{...}" />
-                <marker date="1536770640000" expanded="true" signature="132:161" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -406,40 +184,26 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Objects/ColorData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding>
+                <marker date="1538596874000" expanded="true" signature="80:126" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
               <folding>
-                <marker date="1538425342000" expanded="true" signature="6:44" ph="..." />
-                <marker date="1538425342000" expanded="true" signature="84:347" ph="{...}" />
-                <marker date="1538425342000" expanded="true" signature="190:345" ph="{...}" />
-                <marker date="1538425342000" expanded="true" signature="247:339" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <marker date="1538541334000" expanded="true" signature="76:81" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding>
-                <marker date="1538543008000" expanded="true" signature="57:89" ph="{...}" />
+                <marker date="1538595554000" expanded="true" signature="6:44" ph="..." />
+                <marker date="1538595554000" expanded="true" signature="92:211" ph="{...}" />
+                <marker date="1538595554000" expanded="true" signature="173:209" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -467,21 +231,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Objects/ColorData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIhealth.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -513,9 +276,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScripts/OldMoveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Draggable.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NameID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColorOnTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MatchID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Objects/ColorData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
       </list>
     </option>
   </component>
@@ -547,10 +315,10 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -631,11 +399,12 @@
       <workItem from="1538423490145" duration="1928000" />
       <workItem from="1538540622070" duration="36000" />
       <workItem from="1538540732305" duration="847000" />
+      <workItem from="1538594069713" duration="2922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32566000" />
+    <option name="totallyTimeSpent" value="35488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -648,9 +417,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11782662" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11904762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -780,6 +548,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIhealth.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -794,26 +569,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColorOnTrigger.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <marker date="1538541334000" expanded="true" signature="76:81" ph="{...}" />
+            <marker date="1538595554000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1538595554000" expanded="true" signature="92:211" ph="{...}" />
+            <marker date="1538595554000" expanded="true" signature="173:209" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-          <folding>
-            <marker date="1538425342000" expanded="true" signature="6:44" ph="..." />
-            <marker date="1538425342000" expanded="true" signature="84:347" ph="{...}" />
-            <marker date="1538425342000" expanded="true" signature="190:345" ph="{...}" />
-            <marker date="1538425342000" expanded="true" signature="247:339" ph="{...}" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -830,12 +614,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="240">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Objects/ColorData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding>
-            <marker date="1538543008000" expanded="true" signature="57:89" ph="{...}" />
+            <marker date="1538596874000" expanded="true" signature="80:126" ph="{...}" />
           </folding>
         </state>
       </provider>
