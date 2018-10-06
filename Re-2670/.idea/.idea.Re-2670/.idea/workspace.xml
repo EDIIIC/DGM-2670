@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a9767b1-fdc5-4dfc-aa8b-5dcea63878a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Character.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Character.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Character.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Character.mat.meta" afterDir="false" />
@@ -13,25 +11,15 @@
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Countdown.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fixing2670.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NavMeshAgents.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/WordGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/WordGame.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatBool.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letters.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Letters.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ID Scripts/ObjectID.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ID Scripts/ObjectID.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NameID.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NameID.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectID.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,28 +101,28 @@
         <counts>
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="18" />
+          <entry key="cs" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="18" />
+          <entry key="C#" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2181" />
+          <entry key="cs" value="2182" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2181" />
+          <entry key="C#" value="2182" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -184,13 +172,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Objects/ColorData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
+            <state relative-caret-position="30">
               <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding>
                 <marker date="1538596874000" expanded="true" signature="80:126" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ID Scripts/ObjectID.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <marker date="1538869326000" expanded="true" signature="57:83" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -237,6 +237,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ID Scripts/ObjectID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
@@ -284,6 +285,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MatchID.cs" />
         <option value="$PROJECT_DIR$/Assets/Objects/ColorData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ID Scripts/ObjectID.cs" />
       </list>
     </option>
   </component>
@@ -303,6 +305,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -314,10 +320,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -400,11 +402,12 @@
       <workItem from="1538540622070" duration="36000" />
       <workItem from="1538540732305" duration="847000" />
       <workItem from="1538594069713" duration="2922000" />
+      <workItem from="1538869308766" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35488000" />
+    <option name="totallyTimeSpent" value="35508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,8 +420,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11904762" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12026862" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -510,14 +514,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1536770640000" expanded="true" signature="79:163" ph="{...}" />
-            <marker date="1536770640000" expanded="true" signature="132:161" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -526,6 +523,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColorOnTrigger.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -548,10 +551,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1538424230000" expanded="true" signature="59:482" ph="{...}" />
+            <marker date="1538424230000" expanded="true" signature="165:192" ph="{...}" />
+            <marker date="1538424230000" expanded="true" signature="223:315" ph="{...}" />
+            <marker date="1538424230000" expanded="true" signature="338:480" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1538595554000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1538595554000" expanded="true" signature="92:211" ph="{...}" />
+            <marker date="1538595554000" expanded="true" signature="173:209" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -569,71 +589,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColorOnTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1538595554000" expanded="true" signature="6:44" ph="..." />
-            <marker date="1538595554000" expanded="true" signature="92:211" ph="{...}" />
-            <marker date="1538595554000" expanded="true" signature="173:209" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <marker date="1538424230000" expanded="true" signature="59:482" ph="{...}" />
-            <marker date="1538424230000" expanded="true" signature="165:192" ph="{...}" />
-            <marker date="1538424230000" expanded="true" signature="223:315" ph="{...}" />
-            <marker date="1538424230000" expanded="true" signature="338:480" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Objects/ColorData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="30">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding>
             <marker date="1538596874000" expanded="true" signature="80:126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ID Scripts/ObjectID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1538869326000" expanded="true" signature="57:83" ph="{...}" />
           </folding>
         </state>
       </provider>
