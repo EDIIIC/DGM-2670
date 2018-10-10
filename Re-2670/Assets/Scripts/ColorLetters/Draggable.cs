@@ -23,7 +23,7 @@ public class Draggable : MonoBehaviour
 		while (CanDrag)
 		{
 			yield return new WaitForFixedUpdate();
-			newPosition = CanDrag.ScreenToWorldPoint(Input.mousePosition) + offsetPosition;
+			newPosition = cam.ScreenToWorldPoint(Input.mousePosition) + offsetPosition;
 			transform.position = newPosition;
 		}
 	}
