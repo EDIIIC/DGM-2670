@@ -2,6 +2,25 @@
 
 public class ChangeColor : MonoBehaviour
 {
+  public ColorData Color;
+
+  public void Call(SpriteRenderer spriteRenderer)
+  {
+    spriteRenderer.color = Color.Value;
+  }
+
+  private void Call(Material material)
+  {
+    material.color = Color.Value;
+  }
+}
+
+
+/*
+using UnityEngine;
+
+public class ChangeColor : MonoBehaviour
+{
   public ColorData SpriteColor;
 
   private SpriteRenderer sRenderer;
@@ -18,3 +37,4 @@ public class ChangeColor : MonoBehaviour
       SpriteColor.Value;
   }
 }
+*/

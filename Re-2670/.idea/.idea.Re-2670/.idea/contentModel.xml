@@ -18,6 +18,7 @@
             <e p="Letter.cs" t="Include" />
             <e p="Letters.cs" t="Include" />
             <e p="MatchID.cs" t="Include" />
+            <e p="Snap.cs" t="Include" />
           </e>
           <e p="Count" t="Include">
             <e p="ExperimentalCounter.cs" t="Include" />
@@ -46,6 +47,7 @@
             <e p="TriggerEnterEvent.cs" t="Include" />
             <e p="Word.cs" t="Include" />
           </e>
+          <e p="StartBehavior.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
