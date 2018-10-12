@@ -3,11 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="1a9767b1-fdc5-4dfc-aa8b-5dcea63878a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Blue.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Blue.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Green.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Green.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Red.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Red.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Yellow.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Yellow.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed4.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed4.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/WordGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/WordGame.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColorLetters/Draggable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColorLetters/Draggable.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" afterDir="false" />
@@ -93,7 +96,7 @@
     <session id="-1672070209">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="7" />
           <entry key="project.opened" value="10" />
@@ -464,12 +467,12 @@
       <workItem from="1538594069713" duration="2922000" />
       <workItem from="1538869308766" duration="20000" />
       <workItem from="1539026264134" duration="1875000" />
-      <workItem from="1539201274129" duration="2334000" />
+      <workItem from="1539201274129" duration="2409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39717000" />
+    <option name="totallyTimeSpent" value="39792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
