@@ -31,13 +31,16 @@
             <e p="ObjectID.cs" t="Include" />
           </e>
           <e p="InstanceObject.cs" t="Include" />
+          <e p="Jumper" t="Include">
+            <e p="EmmisionWave.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+          </e>
           <e p="LevelManager.cs" t="Include" />
           <e p="MoveScripts" t="Include">
             <e p="CharacterMovement.cs" t="Include" />
             <e p="MovePattern.cs" t="Include" />
             <e p="MovePatternDual.cs" t="Include" />
             <e p="MovePatternNotGrounded.cs" t="Include" />
-            <e p="OldMoveScript.cs" t="Include" />
           </e>
           <e p="OtherStuff" t="Include">
             <e p="FloatBool.cs" t="Include" />
