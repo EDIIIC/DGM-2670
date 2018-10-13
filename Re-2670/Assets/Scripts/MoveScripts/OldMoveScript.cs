@@ -3,7 +3,7 @@
 [RequireComponent(typeof(CharacterController))]
 	public class OldMoveScript : MonoBehaviour 
 	{
-
+/*
 		public FloatData jumpSpeed;
 		public FloatData gravity;
 
@@ -22,7 +22,7 @@
 
 		void Update() {
 			
-			//if (CharacterController.isGrounded) {
+			if (CharacterController.isGrounded) {
 				moveDirection.Set(MoveX.Value, MoveY.Value, MoveZ.value);
 				rotDirection.Set(RotX.Value, RotY.Value, RotZ.Value);
 				transform.Rotate(rotDirection);
@@ -30,10 +30,10 @@
 
 				if (Input.GetButton("Jump"))
 					moveDirection.y = jumpSpeed.Value;
-			//}
+			}
 
 			moveDirection.y -= gravity.Value * Time.deltaTime;
 			controller.Move(moveDirection * Time.deltaTime);
 		}
-
+*/
 	}
