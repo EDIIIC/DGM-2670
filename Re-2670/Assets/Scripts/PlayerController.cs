@@ -5,7 +5,7 @@
 public class PlayerController : MonoBehaviour
 {
 
-    public float thrusterForce;
+    //public float thrusterForce;
     private Rigidbody2D rigid;
     public int health;
     public float moveSpeed;

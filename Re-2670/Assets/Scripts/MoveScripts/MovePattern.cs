@@ -3,7 +3,7 @@
 [CreateAssetMenu]
 public class MovePattern : ScriptableObject 
 { 
-    public FloatData JumpSpeed;
+    public FloatData jumpSpeed;
     public FloatData Gravity;
     
     public FloatData MoveX, MoveY, MoveZ;

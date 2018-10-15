@@ -1,12 +1,9 @@
-﻿//using System.Collections;
-//using System.Collections.Generic;
-using UnityEngine;
-using System.Collections;
+﻿using UnityEngine;
 
 [RequireComponent(typeof(CharacterController))]
 public class CharacterMovement : MonoBehaviour
 {
-	public int health;
+	//public int health;
 	public GameObject levelManager;
 	private CharacterController controller; //moves object
 	public MovePattern Pattern;
