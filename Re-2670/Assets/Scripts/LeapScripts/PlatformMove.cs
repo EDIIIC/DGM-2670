@@ -11,19 +11,17 @@ public class PlatformMove : MonoBehaviour
 
 	void Start()
 	{
-//	    player = FindObjectOfType<PlayerController>().gameObject;
 		rigid = GetComponent<Rigidbody>();
 
 //speed
 		rigid.AddRelativeForce(new Vector3(Random.Range(0, speed), 0f), ForceMode.Force);
 	}
 
-//COLLISION DAMAGE
 	private void OnCollisionEnter(Collision coll)
 	{
 		coll.gameObject.GetComponent<Health>().IncrementHealth(-1);
 	}
-
+/*
 	public void IncrementHealth(int value)
 	{
 		life += value;
@@ -33,4 +31,5 @@ public class PlatformMove : MonoBehaviour
 			Destroy(this.gameObject);
 		}
 	}
+*/
 }

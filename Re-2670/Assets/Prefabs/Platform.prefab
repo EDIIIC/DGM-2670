@@ -24,7 +24,8 @@ GameObject:
   - component: {fileID: 65317928063580784}
   - component: {fileID: 54483681968084334}
   - component: {fileID: 114546041558299546}
-  m_Layer: 0
+  - component: {fileID: 114497227759760942}
+  m_Layer: 10
   m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38,8 +39,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1043301537692908}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.32, y: 0, z: -0.11}
-  m_LocalScale: {x: 1.2273794, y: 0.24574676, z: 1}
+  m_LocalPosition: {x: 0, y: -0.72999954, z: 0}
+  m_LocalScale: {x: 1, y: 0.24574676, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -113,6 +114,21 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114497227759760942
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1043301537692908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  life: 1
+  explosionEffect: {fileID: 0}
+  hearts: []
+  scoreboard: {fileID: 0}
 --- !u!114 &114546041558299546
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -125,3 +141,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 160
+  life: 0
