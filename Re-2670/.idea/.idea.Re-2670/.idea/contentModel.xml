@@ -31,7 +31,14 @@
             <e p="ObjectID.cs" t="Include" />
           </e>
           <e p="InstanceObject.cs" t="Include" />
-          <e p="LevelManager.cs" t="Include" />
+          <e p="LeapScripts" t="Include">
+            <e p="LevelManager.cs" t="Include" />
+            <e p="PlatformEmission.cs" t="Include" />
+            <e p="PlatformMove.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="RomController.cs" t="Include" />
+            <e p="ScoreBoard.cs" t="Include" />
+          </e>
           <e p="MoveScripts" t="Include">
             <e p="CharacterMovement.cs" t="Include" />
             <e p="MovePattern.cs" t="Include" />
@@ -46,9 +53,6 @@
             <e p="TriggerEnterEvent.cs" t="Include" />
             <e p="Word.cs" t="Include" />
           </e>
-          <e p="PlatformEmission.cs" t="Include" />
-          <e p="PlatformMove.cs" t="Include" />
-          <e p="PlayerController.cs" t="Include" />
           <e p="StartBehavior.cs" t="Include" />
         </e>
       </e>
