@@ -6,7 +6,7 @@ public class Destruction : MonoBehaviour {
 
     public int damage;
 
-    private void OnTriggerEnter(Collider other){
+    void OnTriggerEnter(Collider other){
         other.GetComponent<Health> ().IncrementHealth (damage);
         Destroy (gameObject);
     }

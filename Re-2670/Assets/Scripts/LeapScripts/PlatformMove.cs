@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlatformMove : MonoBehaviour
 {
 	public float speed;
-	public int life;
+//	public int life;
 	private GameObject player;
 	private Rigidbody rigid;
 

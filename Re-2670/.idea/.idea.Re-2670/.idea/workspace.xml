@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a9767b1-fdc5-4dfc-aa8b-5dcea63878a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Re-2670/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Platform.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Platform.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed4.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/FloatData/AIspeed4.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Materials/Character.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Character.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MovePatterns/Side Scroller.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Leap.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Leap.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LeapRom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LeapRom.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LeapStart.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LeapStart.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/Countdown.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/Countdown.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/Countdown.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/Countdown.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/Fixing2670.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LearningScenes/Fixing2670.unity" afterDir="false" />
@@ -23,13 +18,13 @@
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ID Scripts/NameID.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ID Scripts/NameID.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destruction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destruction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Life.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Life.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformMove.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternNotGrounded.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/OtherStuff/FloatBool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OtherStuff/FloatBool.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,31 +104,31 @@
     <session id="-1672070209">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.6" value="12" />
-          <entry key="project.open.time.7" value="11" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.open.time.7" value="13" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="73" />
+          <entry key="cs" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="73" />
+          <entry key="C#" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="5988" />
+          <entry key="cs" value="5998" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="5988" />
+          <entry key="C#" value="5998" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -147,9 +142,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding>
-                <marker date="1539804594000" expanded="true" signature="142:192" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -161,35 +153,34 @@
               <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <marker date="1539807820000" expanded="true" signature="6:79" ph="..." />
-                <marker date="1539807820000" expanded="true" signature="118:983" ph="{...}" />
                 <marker date="1539807820000" expanded="true" signature="223:981" ph="/* public UnityEvent MadePurchase; ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Life.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="847">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="157">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
-                <marker date="1539808750000" expanded="true" signature="54:1686" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="206:357" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="302:349" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="385:559" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="439:484" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="498:544" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="603:1181" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="693:1101" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="852:915" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="944:1091" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="1126:1173" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="1211:1499" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="1296:1350" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="1425:1491" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="1528:1563" ph="{...}" />
-                <marker date="1539808750000" expanded="true" signature="1597:1682" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="54:1690" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="208:359" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="304:351" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="387:561" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="441:486" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="500:546" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="605:1185" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="695:1105" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="856:919" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="948:1095" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="1130:1177" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="1215:1503" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="1300:1354" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="1429:1495" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="1532:1567" ph="{...}" />
+                <marker date="1539890928000" expanded="true" signature="1601:1686" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -235,14 +226,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformMove.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+            <state relative-caret-position="75">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <marker date="1539809352000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539809352000" expanded="true" signature="121:641" ph="{...}" />
-                <marker date="1539809352000" expanded="true" signature="231:367" ph="{...}" />
-                <marker date="1539809352000" expanded="true" signature="415:483" ph="{...}" />
-                <marker date="1539809352000" expanded="true" signature="484:639" ph="/* public void IncrementHealth(int value) ... */" />
+                <marker date="1539890988000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539890988000" expanded="true" signature="121:643" ph="{...}" />
+                <marker date="1539890988000" expanded="true" signature="233:369" ph="{...}" />
+                <marker date="1539890988000" expanded="true" signature="417:485" ph="{...}" />
+                <marker date="1539890988000" expanded="true" signature="486:641" ph="/* public void IncrementHealth(int value) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destruction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1539891244000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539891244000" expanded="true" signature="121:290" ph="{...}" />
+                <marker date="1539891244000" expanded="true" signature="187:288" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -263,10 +268,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformEmission.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="345">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
-                <marker date="1539630630000" expanded="true" signature="6:44" ph="..." />
+                <marker date="1539630630000" expanded="false" signature="6:44" ph="..." />
                 <marker date="1539630630000" expanded="true" signature="270:414" ph="{...}" />
                 <marker date="1539630630000" expanded="true" signature="433:627" ph="{...}" />
                 <marker date="1539630630000" expanded="true" signature="454:624" ph="{...}" />
@@ -286,6 +291,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Count/PerpetualCounter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorLetters/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorLetters/Store.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destruction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/ScoreBoard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorLetters/ChangeColor.cs" root0="FORCE_HIGHLIGHTING" />
@@ -315,7 +321,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AIhealth.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
@@ -366,6 +371,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Life.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destruction.cs" />
       </list>
     </option>
   </component>
@@ -385,6 +391,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -397,9 +406,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -500,12 +506,15 @@
       <workItem from="1539746449172" duration="1950000" />
       <workItem from="1539751426994" duration="387000" />
       <workItem from="1539797680331" duration="1751000" />
-      <workItem from="1539805511753" duration="3229000" />
+      <workItem from="1539805511753" duration="3309000" />
+      <workItem from="1539815752355" duration="225000" />
+      <workItem from="1539820108213" duration="15000" />
+      <workItem from="1539890869639" duration="422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60438000" />
+    <option name="totallyTimeSpent" value="61180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -520,7 +529,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14224665" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14713065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -564,7 +573,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColorOnTrigger.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" />
@@ -700,38 +708,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539622326000" expanded="true" signature="114:400" ph="{...}" />
-            <marker date="1539622326000" expanded="true" signature="273:331" ph="{...}" />
-            <marker date="1539622326000" expanded="true" signature="351:398" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destroy.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Health.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ColorLetters/PurchasableObject.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539630852000" expanded="true" signature="82:990" ph="{...}" />
-            <marker date="1539630852000" expanded="true" signature="388:518" ph="{...}" />
-            <marker date="1539630852000" expanded="true" signature="429:482" ph="{...}" />
-            <marker date="1539630852000" expanded="true" signature="578:689" ph="{...}" />
-            <marker date="1539630852000" expanded="true" signature="739:988" ph="{...}" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePatternDual.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ColorLetters/Store.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <marker date="1538283012000" expanded="true" signature="111:437" ph="{...}" />
-            <marker date="1538283012000" expanded="true" signature="222:435" ph="{...}" />
-            <marker date="1538283012000" expanded="true" signature="254:311" ph="{...}" />
-            <marker date="1538283012000" expanded="true" signature="318:408" ph="{...}" />
-            <marker date="1538283012000" expanded="true" signature="345:404" ph="{...}" />
+            <marker date="1539807820000" expanded="true" signature="6:79" ph="..." />
+            <marker date="1539807820000" expanded="true" signature="223:981" ph="/* public UnityEvent MadePurchase; ... */" />
           </folding>
         </state>
       </provider>
@@ -779,10 +779,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformEmission.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="345">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
-            <marker date="1539630630000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1539630630000" expanded="false" signature="6:44" ph="..." />
             <marker date="1539630630000" expanded="true" signature="270:414" ph="{...}" />
             <marker date="1539630630000" expanded="true" signature="433:627" ph="{...}" />
             <marker date="1539630630000" expanded="true" signature="454:624" ph="{...}" />
@@ -790,77 +790,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destroy.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Life.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Health.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ColorLetters/PurchasableObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="157">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
-            <marker date="1539804594000" expanded="true" signature="142:192" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ColorLetters/Store.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <marker date="1539807820000" expanded="true" signature="6:79" ph="..." />
-            <marker date="1539807820000" expanded="true" signature="118:983" ph="{...}" />
-            <marker date="1539807820000" expanded="true" signature="223:981" ph="/* public UnityEvent MadePurchase; ... */" />
+            <marker date="1539890928000" expanded="true" signature="54:1690" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="208:359" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="304:351" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="387:561" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="441:486" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="500:546" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="605:1185" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="695:1105" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="856:919" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="948:1095" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="1130:1177" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="1215:1503" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="1300:1354" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="1429:1495" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="1532:1567" ph="{...}" />
+            <marker date="1539890928000" expanded="true" signature="1601:1686" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformMove.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <marker date="1539809352000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539809352000" expanded="true" signature="121:641" ph="{...}" />
-            <marker date="1539809352000" expanded="true" signature="231:367" ph="{...}" />
-            <marker date="1539809352000" expanded="true" signature="415:483" ph="{...}" />
-            <marker date="1539809352000" expanded="true" signature="484:639" ph="/* public void IncrementHealth(int value) ... */" />
+            <marker date="1539890988000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539890988000" expanded="true" signature="121:643" ph="{...}" />
+            <marker date="1539890988000" expanded="true" signature="233:369" ph="{...}" />
+            <marker date="1539890988000" expanded="true" signature="417:485" ph="{...}" />
+            <marker date="1539890988000" expanded="true" signature="486:641" ph="/* public void IncrementHealth(int value) ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Life.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destruction.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="847">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="165">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <marker date="1539808750000" expanded="true" signature="54:1686" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="206:357" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="302:349" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="385:559" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="439:484" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="498:544" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="603:1181" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="693:1101" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="852:915" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="944:1091" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="1126:1173" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="1211:1499" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="1296:1350" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="1425:1491" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="1528:1563" ph="{...}" />
-            <marker date="1539808750000" expanded="true" signature="1597:1682" ph="{...}" />
+            <marker date="1539891244000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539891244000" expanded="true" signature="121:290" ph="{...}" />
+            <marker date="1539891244000" expanded="true" signature="187:288" ph="{...}" />
           </folding>
         </state>
       </provider>

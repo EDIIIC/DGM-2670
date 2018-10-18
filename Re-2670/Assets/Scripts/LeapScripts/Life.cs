@@ -2,7 +2,7 @@
 using UnityEngine;
 public class Life : MonoBehaviour {
     public int life;
-    public GameObject explosionEffect;
+//    public GameObject explosionEffect;
     public GameObject[] hearts;
     public GameObject scoreboard;
     private void Start()
@@ -32,7 +32,7 @@ public class Life : MonoBehaviour {
         if (life <= 0) 
         {
             Destroy (gameObject);
-            Instantiate (explosionEffect, transform.position, Quaternion.identity);
+//            Instantiate (explosionEffect, transform.position, Quaternion.identity);
             if (!MePlayer ()) 
             {
                 IncrementScore ();
