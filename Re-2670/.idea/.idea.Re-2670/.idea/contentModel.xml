@@ -35,6 +35,7 @@
           </e>
           <e p="InstanceObject.cs" t="Include" />
           <e p="LeapScripts" t="Include">
+            <e p="AltDestroy.cs" t="Include" />
             <e p="Destruction.cs" t="Include" />
             <e p="Floor.cs" t="Include" />
             <e p="LevelManager.cs" t="Include" />
@@ -44,6 +45,7 @@
             <e p="PlayerController.cs" t="Include" />
             <e p="RomController.cs" t="Include" />
             <e p="ScoreBoard.cs" t="Include" />
+            <e p="SeatDes.cs" t="Include" />
           </e>
           <e p="MoveScripts" t="Include">
             <e p="CharacterMovement.cs" t="Include" />

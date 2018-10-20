@@ -17,10 +17,10 @@ public class PlatformMove : MonoBehaviour
 		rigid.AddRelativeForce(new Vector3(Random.Range(0, speed), 0f), ForceMode.Force);
 	}
 
-	private void OnCollisionEnter(Collision coll)
-	{
-		coll.gameObject.GetComponent<Health>().IncrementHealth(-1);
-	}
+//	private void OnCollisionEnter(Collision coll)
+//	{
+//		coll.gameObject.GetComponent<Health>().IncrementHealth(-1);
+//	}
 /*
 	public void IncrementHealth(int value)
 	{
