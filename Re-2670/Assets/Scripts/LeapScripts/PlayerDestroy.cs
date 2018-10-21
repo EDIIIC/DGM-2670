@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AltDestroy : MonoBehaviour {
+public class PlayerDestroy : MonoBehaviour {
     
     void OnCollisionEnter(Collision col)
     {
-       if (col.gameObject.name == "platform(Clone)")
+       if (col.gameObject.name == "Player")
         {
             Destroy(col.gameObject);
         }

@@ -37,10 +37,10 @@ public class Life : MonoBehaviour {
             {
                 IncrementScore ();
             }
-            if (MePlayer()) 
-            {
-                gameObject.GetComponent<PlayerController>().levelManager.GetComponent<LevelManager>().LoadNextLevel();
-            }
+ //           if (MePlayer()) 
+ //           {
+ //               gameObject.GetComponent<PlayerController>().levelManager.GetComponent<LevelManager>().LoadNextLevel();
+ //           }
         }
         if (MePlayer()) 
         {
