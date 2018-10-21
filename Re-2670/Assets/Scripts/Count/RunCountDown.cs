@@ -23,12 +23,12 @@ public class RunCountDown : MonoBehaviour
 		}
 		label.text = "1";
 		yield return new WaitForSeconds(1);
-		label.text = "Jump on them to survive";
+		label.text = "Jump to survive";
+	//	yield return new WaitForSeconds(2);
+	//	label.text = "Hit them for points";
 		yield return new WaitForSeconds(2);
-		label.text = "Hit them for points";
-		yield return new WaitForSeconds(3);
 		label.text = "Here they come!";
-		yield return new WaitForSeconds(4);
+		yield return new WaitForSeconds(3);
 		label.text = "";
 	}
 }

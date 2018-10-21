@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 
 public class ScoreBoard : MonoBehaviour {
-
+    
     public int score;
     public Text currentDisplay;
     public Text highscoreDisplay;
@@ -40,3 +40,4 @@ public class ScoreBoard : MonoBehaviour {
     }
 
 }
+

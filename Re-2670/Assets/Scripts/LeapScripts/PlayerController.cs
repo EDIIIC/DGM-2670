@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 [RequireComponent(typeof(CharacterController))]
 public class PlayerController : MonoBehaviour
@@ -36,9 +37,8 @@ public class PlayerController : MonoBehaviour
 }
 
 
-
-
 /*
+ FIRST
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
