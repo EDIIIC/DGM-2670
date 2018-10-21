@@ -17,7 +17,7 @@ public class LevelManager : MonoBehaviour
     }    
     public void ExitGame ()
     {
-        print ("Tried to exit.");
+        print ("GET OUT'A HERE");
         Application.Quit ();
     }
     public void LoadNextLevel ()

@@ -3080,7 +3080,7 @@ GameObject:
   - component: {fileID: 562476609}
   - component: {fileID: 562476608}
   m_Layer: 11
-  m_Name: Collider
+  m_Name: BottomDeathPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3097,7 +3097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d14ed6800bc347a088f531ef0eb0834, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myLevelManager: {fileID: 0}
+  myLevelManager: {fileID: 1411475168}
 --- !u!65 &562476609
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3105,7 +3105,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 562476607}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -3158,9 +3158,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 562476607}
-  m_LocalRotation: {x: -0.032030568, y: 0, z: -0, w: 0.999487}
-  m_LocalPosition: {x: 0, y: -0.121, z: 0.801}
-  m_LocalScale: {x: 0.4031115, y: 0.09546607, z: 0.21265425}
+  m_LocalRotation: {x: -0.032030568, y: -0, z: -0, w: 0.999487}
+  m_LocalPosition: {x: 0, y: -0.121000044, z: 0.80100006}
+  m_LocalScale: {x: 0.4031115, y: 0.09559292, z: 0.21293683}
   m_Children: []
   m_Father: {fileID: 402650869}
   m_RootOrder: 0
@@ -7280,6 +7280,12 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1362844750}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1411475168 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114339760752091934, guid: 8f91b3249af79414dbe7bc526ea68d23,
+    type: 2}
+  m_PrefabInternal: {fileID: 709911720}
+  m_Script: {fileID: 11500000, guid: ebf7ec8f2927442c4892130bd1598c98, type: 3}
 --- !u!1 &1416802237
 GameObject:
   m_ObjectHideFlags: 0

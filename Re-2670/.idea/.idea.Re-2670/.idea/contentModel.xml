@@ -43,7 +43,6 @@
             <e p="PlatformEmission.cs" t="Include" />
             <e p="PlatformMove.cs" t="Include" />
             <e p="PlayerController.cs" t="Include" />
-            <e p="PlayerDestroy.cs" t="Include" />
             <e p="RomController.cs" t="Include" />
             <e p="ScoreBoard.cs" t="Include" />
             <e p="SeatDes.cs" t="Include" />

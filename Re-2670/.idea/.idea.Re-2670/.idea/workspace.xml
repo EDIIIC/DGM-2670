@@ -106,30 +106,30 @@
         <counts>
           <entry key="project.closed" value="39" />
           <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.6" value="17" />
+          <entry key="project.open.time.6" value="18" />
           <entry key="project.open.time.7" value="18" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="84" />
+          <entry key="cs" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="84" />
+          <entry key="C#" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="6526" />
+          <entry key="cs" value="6552" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="6526" />
+          <entry key="C#" value="6552" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -138,39 +138,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destruction.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <marker date="1540087102000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540087102000" expanded="true" signature="121:290" ph="{...}" />
-                <marker date="1540087102000" expanded="true" signature="187:288" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/ScoreBoard.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-              <folding>
-                <marker date="1540087152000" expanded="false" signature="6:40" ph="..." />
-                <marker date="1540087152000" expanded="true" signature="82:917" ph="{...}" />
-                <marker date="1540087152000" expanded="true" signature="196:422" ph="{...}" />
-                <marker date="1540087152000" expanded="true" signature="253:317" ph="{...}" />
-                <marker date="1540087152000" expanded="true" signature="470:550" ph="{...}" />
-                <marker date="1540087152000" expanded="true" signature="579:773" ph="{...}" />
-                <marker date="1540087152000" expanded="true" signature="800:856" ph="{...}" />
-                <marker date="1540087152000" expanded="true" signature="885:914" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -186,16 +153,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Floor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="330">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
               <folding>
-                <marker date="1540163314000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540163314000" expanded="true" signature="123:285" ph="{...}" />
-                <marker date="1540163314000" expanded="true" signature="170:283" ph="{...}" />
-                <marker date="1540163314000" expanded="true" signature="220:277" ph="{...}" />
+                <marker date="1540165756000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540165756000" expanded="true" signature="115:243" ph="{...}" />
+                <marker date="1540165756000" expanded="true" signature="196:241" ph="{...}" />
+                <marker date="1540165756000" expanded="true" signature="245:456" ph="/* public class PlayerDestroy : MonoBehaviour { ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/LevelManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <marker date="1540166084000" expanded="false" signature="6:53" ph="..." />
+                <marker date="1540166084000" expanded="true" signature="97:793" ph="{...}" />
+                <marker date="1540166084000" expanded="true" signature="191:349" ph="{...}" />
+                <marker date="1540166084000" expanded="true" signature="240:343" ph="{...}" />
+                <marker date="1540166084000" expanded="true" signature="389:439" ph="{...}" />
+                <marker date="1540166084000" expanded="true" signature="471:546" ph="{...}" />
+                <marker date="1540166084000" expanded="true" signature="579:670" ph="{...}" />
+                <marker date="1540166084000" expanded="true" signature="707:791" ph="{...}" />
+                <marker date="1540166084000" expanded="true" signature="744:785" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -341,7 +328,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/SeatDes.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Life.cs" root0="FORCE_HIGHLIGHTING" />
@@ -384,8 +370,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformEmission.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScripts/MovePattern.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/RomController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/LevelManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Floor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorLetters/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorLetters/PurchasableObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destroy.cs" />
@@ -401,6 +385,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/Floor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/LevelManager.cs" />
       </list>
     </option>
   </component>
@@ -550,11 +536,12 @@
       <workItem from="1540088272666" duration="845000" />
       <workItem from="1540161044767" duration="788000" />
       <workItem from="1540163231893" duration="141000" />
+      <workItem from="1540165594333" duration="294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66695000" />
+    <option name="totallyTimeSpent" value="66989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,7 +556,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16727717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16910867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -683,13 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/LevelManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/RomController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -752,26 +732,15 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/OtherStuff/FloatInput.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Floor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatformMove.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-          <folding>
-            <marker date="1539984150000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539984150000" expanded="true" signature="233:369" ph="{...}" />
-            <marker date="1539984150000" expanded="true" signature="371:493" ph="/* private void OnCollisionEnter(Collision coll) ... */" />
-            <marker date="1539984150000" expanded="true" signature="494:649" ph="/* public void IncrementHealth(int value) ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/AltDestroy.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy1.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Destruction.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -894,16 +863,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/AltDestroy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -919,13 +878,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="30">
+          <caret line="4" selection-start-line="4" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Floor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
           <folding>
-            <marker date="1540163314000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540163314000" expanded="true" signature="123:285" ph="{...}" />
-            <marker date="1540163314000" expanded="true" signature="170:283" ph="{...}" />
-            <marker date="1540163314000" expanded="true" signature="220:277" ph="{...}" />
+            <marker date="1540165756000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540165756000" expanded="true" signature="115:243" ph="{...}" />
+            <marker date="1540165756000" expanded="true" signature="196:241" ph="{...}" />
+            <marker date="1540165756000" expanded="true" signature="245:456" ph="/* public class PlayerDestroy : MonoBehaviour { ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/LevelManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <marker date="1540166084000" expanded="false" signature="6:53" ph="..." />
+            <marker date="1540166084000" expanded="true" signature="97:793" ph="{...}" />
+            <marker date="1540166084000" expanded="true" signature="191:349" ph="{...}" />
+            <marker date="1540166084000" expanded="true" signature="240:343" ph="{...}" />
+            <marker date="1540166084000" expanded="true" signature="389:439" ph="{...}" />
+            <marker date="1540166084000" expanded="true" signature="471:546" ph="{...}" />
+            <marker date="1540166084000" expanded="true" signature="579:670" ph="{...}" />
+            <marker date="1540166084000" expanded="true" signature="707:791" ph="{...}" />
+            <marker date="1540166084000" expanded="true" signature="744:785" ph="{...}" />
           </folding>
         </state>
       </provider>

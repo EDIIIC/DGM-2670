@@ -6,7 +6,20 @@ public class Floor : MonoBehaviour {
 
 	public LevelManager myLevelManager;
 
-	void OnTriggerEnter2D (Collider2D trigger) {
-		myLevelManager.LevelLoad ("Game Over");
+	void OnTriggerEnter (Collider trigger) {
+		myLevelManager.LevelLoad ("GameOver");
 	}
 }
+
+/*
+public class PlayerDestroy : MonoBehaviour {
+    
+    void OnCollisionEnter(Collision col)
+    {
+       if (col.gameObject.name == "Player")
+        {
+            Destroy(col.gameObject);
+        }
+    }
+}
+*/

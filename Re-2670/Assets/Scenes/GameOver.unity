@@ -276,15 +276,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: ebf7ec8f2927442c4892130bd1598c98, type: 3}
-        m_MethodName: set_name
+      - m_Target: {fileID: 1639796672}
+        m_MethodName: LevelLoad
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: NavMeshAgents
+          m_StringArgument: Leap
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -1861,7 +1861,7 @@ MonoBehaviour:
   MinSpawnTime: 1
   MaxSpawnTime: 7
   enemies:
-  - {fileID: 1043301537692908, guid: c790dc904f0ed40218f38cb801f84f72, type: 2}
+  - {fileID: 0}
 --- !u!1 &993557661
 GameObject:
   m_ObjectHideFlags: 0
@@ -2592,7 +2592,7 @@ MonoBehaviour:
   MinSpawnTime: 2
   MaxSpawnTime: 7
   enemies:
-  - {fileID: 1043301537692908, guid: c790dc904f0ed40218f38cb801f84f72, type: 2}
+  - {fileID: 0}
 --- !u!1 &1474216741
 GameObject:
   m_ObjectHideFlags: 0
@@ -3147,7 +3147,7 @@ MonoBehaviour:
   MinSpawnTime: 3
   MaxSpawnTime: 7
   enemies:
-  - {fileID: 1043301537692908, guid: c790dc904f0ed40218f38cb801f84f72, type: 2}
+  - {fileID: 0}
 --- !u!1 &1729676833
 GameObject:
   m_ObjectHideFlags: 0
@@ -3860,8 +3860,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: ebf7ec8f2927442c4892130bd1598c98, type: 3}
-        m_MethodName: 
+      - m_Target: {fileID: 1639796672}
+        m_MethodName: ExitGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
