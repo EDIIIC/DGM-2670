@@ -104,12 +104,12 @@
     <session id="-1672070209">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.6" value="18" />
+          <entry key="project.open.time.6" value="19" />
           <entry key="project.open.time.7" value="18" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="41" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -409,7 +409,6 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -422,6 +421,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -536,12 +536,13 @@
       <workItem from="1540088272666" duration="845000" />
       <workItem from="1540161044767" duration="788000" />
       <workItem from="1540163231893" duration="141000" />
-      <workItem from="1540165594333" duration="294000" />
+      <workItem from="1540165594333" duration="354000" />
+      <workItem from="1540166382640" duration="129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66989000" />
+    <option name="totallyTimeSpent" value="67178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -556,7 +557,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16910867" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17094018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -745,11 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <marker date="1540087102000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540087102000" expanded="true" signature="121:290" ph="{...}" />
-            <marker date="1540087102000" expanded="true" signature="187:288" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -757,15 +753,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <marker date="1540087152000" expanded="false" signature="6:40" ph="..." />
-            <marker date="1540087152000" expanded="true" signature="82:917" ph="{...}" />
-            <marker date="1540087152000" expanded="true" signature="196:422" ph="{...}" />
-            <marker date="1540087152000" expanded="true" signature="253:317" ph="{...}" />
-            <marker date="1540087152000" expanded="true" signature="470:550" ph="{...}" />
-            <marker date="1540087152000" expanded="true" signature="579:773" ph="{...}" />
-            <marker date="1540087152000" expanded="true" signature="800:856" ph="{...}" />
-            <marker date="1540087152000" expanded="true" signature="885:914" ph="{...}" />
+            <marker date="1540163244000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540163244000" expanded="true" signature="121:292" ph="{...}" />
+            <marker date="1540163244000" expanded="true" signature="168:290" ph="{...}" />
+            <marker date="1540163244000" expanded="true" signature="227:284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Floor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <marker date="1540165756000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540165756000" expanded="true" signature="115:243" ph="{...}" />
+            <marker date="1540165756000" expanded="true" signature="196:241" ph="{...}" />
+            <marker date="1540165756000" expanded="true" signature="245:456" ph="/* public class PlayerDestroy : MonoBehaviour { ... */" />
           </folding>
         </state>
       </provider>
@@ -859,39 +872,6 @@
             <marker date="1539630630000" expanded="true" signature="270:414" ph="{...}" />
             <marker date="1539630630000" expanded="true" signature="433:627" ph="{...}" />
             <marker date="1539630630000" expanded="true" signature="454:624" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <marker date="1540163244000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540163244000" expanded="true" signature="121:292" ph="{...}" />
-            <marker date="1540163244000" expanded="true" signature="168:290" ph="{...}" />
-            <marker date="1540163244000" expanded="true" signature="227:284" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" selection-start-line="4" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/Floor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-          <folding>
-            <marker date="1540165756000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540165756000" expanded="true" signature="115:243" ph="{...}" />
-            <marker date="1540165756000" expanded="true" signature="196:241" ph="{...}" />
-            <marker date="1540165756000" expanded="true" signature="245:456" ph="/* public class PlayerDestroy : MonoBehaviour { ... */" />
           </folding>
         </state>
       </provider>
