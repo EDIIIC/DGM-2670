@@ -35,12 +35,12 @@ public class Life : MonoBehaviour {
 //            Instantiate (explosionEffect, transform.position, Quaternion.identity);
             if (!MePlayer ()) 
             {
-                IncrementScore ();
+//               IncrementScore ();
             }
- //           if (MePlayer()) 
- //           {
- //               gameObject.GetComponent<PlayerController>().levelManager.GetComponent<LevelManager>().LoadNextLevel();
- //           }
+//           if (MePlayer()) 
+//           {
+//               gameObject.GetComponent<PlayerController>().levelManager.GetComponent<LevelManager>().LoadNextLevel();
+//           }
         }
         if (MePlayer()) 
         {
@@ -63,9 +63,9 @@ public class Life : MonoBehaviour {
     {
         return life;  
     }
-    private void IncrementScore()
-    {
-        scoreboard.GetComponent<ScoreBoard> ().IncrementScoreBoard (10);
-    }  
+//    private void IncrementScore()
+//    {
+//        scoreboard.GetComponent<ScoreBoard> ().IncrementScoreBoard (10);
+//    }  
 }
 

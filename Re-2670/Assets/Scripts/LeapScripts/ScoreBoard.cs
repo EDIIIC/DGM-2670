@@ -1,8 +1,22 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-public class ScoreBoard : MonoBehaviour {
-    
+public class ScoreBoard : MonoBehaviour
+{
+    public static int scoreValue = 0;
+    Text score;
+
+    private void Start()
+    {
+        score = GetComponent<Text>();
+    }
+
+    private void Update()
+    {
+        score.text = "Score: " + scoreValue;
+    }
+}
+/*    
     public int score;
     public Text currentDisplay;
     public Text highscoreDisplay;
@@ -40,4 +54,4 @@ public class ScoreBoard : MonoBehaviour {
     }
 
 }
-
+*/
