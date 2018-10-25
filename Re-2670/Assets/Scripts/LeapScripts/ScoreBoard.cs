@@ -16,6 +16,13 @@ public class ScoreBoard : MonoBehaviour
         score.text = "Score: " + scoreValue;
     }
 }
+
+
+
+
+
+
+
 /*    
     public int score;
     public Text currentDisplay;

@@ -5,6 +5,8 @@ public class LevelManager : MonoBehaviour
 {
     public static int PlayerCount;
     public static int PlatformCount;
+//    private int playerscore;
+    
     void Update () {
         if (Input.GetKeyDown (KeyCode.Escape)) 
         {
@@ -23,6 +25,7 @@ public class LevelManager : MonoBehaviour
     public void LoadNextLevel ()
     {
         SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
+//        playerscore = 0;
     }
     public void CheckPlayerCount () 
     {
