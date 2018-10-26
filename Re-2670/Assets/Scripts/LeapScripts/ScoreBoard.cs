@@ -13,7 +13,7 @@ public class ScoreBoard : MonoBehaviour
 
     private void Update()
     {
-        score.text = "Score: " + scoreValue;
+        score.text = "SCORE: " + scoreValue;
     }
 }
 
