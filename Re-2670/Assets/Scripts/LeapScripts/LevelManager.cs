@@ -5,6 +5,10 @@ public class LevelManager : MonoBehaviour
 {
     public static int PlayerCount;
     public static int PlatformCount;
+
+    public HighScores_SO highScoresSo;
+    public GameObject scoreboard;
+    
 //    private int playerscore;
     
     void Update () {
@@ -20,6 +24,8 @@ public class LevelManager : MonoBehaviour
     public void ExitGame ()
     {
         print ("GET OUT'A HERE");
+        highScoresSo.highScores.Add(ScoreBoard.scoreValue);
+        highScoresSo.OrderScores();
         Application.Quit ();
     }
     public void LoadNextLevel ()

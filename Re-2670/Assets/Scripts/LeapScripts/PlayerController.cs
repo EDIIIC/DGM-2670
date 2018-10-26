@@ -10,23 +10,20 @@ public class PlayerController : MonoBehaviour
    public float jumpSpeed;
    public float gravity;
    private Vector3 moveDirection = Vector3.zero;
+   //public AudioSource audioSource;
 
    private CharacterController controller;
 
-// Use this for initialization
    void Start()
    {
       controller = GetComponent<CharacterController>();
    }
 
-// Update is called once per frame
    void Update()
    {
 
       if (controller.isGrounded)
-      {
-// We are grounded, so recalculate
-// move direction directly from axes        
+      {       
          moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, 0);
          moveDirection = transform.TransformDirection(moveDirection);
          moveDirection = moveDirection * speed;
@@ -37,18 +34,37 @@ public class PlayerController : MonoBehaviour
       }
       else
       {
-// Apply right/left, if we are NOT grounded
-// --> Left/Right movement in mid air allowed
+//       Left/Right movement in mid air allowed
          moveDirection.x = Input.GetAxis("Horizontal") * speed;
       }
-
-// Apply gravity
       moveDirection.y -= gravity * Time.deltaTime;
-
-// Move the controller
+      
       controller.Move(moveDirection * Time.deltaTime);
    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*SECOND
 [RequireComponent(typeof(CharacterController))]

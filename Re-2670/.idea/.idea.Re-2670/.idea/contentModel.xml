@@ -39,6 +39,7 @@
             <e p="Floor.cs" t="Include" />
             <e p="LevelManager.cs" t="Include" />
             <e p="Life.cs" t="Include" />
+            <e p="MusicManager.cs" t="Include" />
             <e p="PlatDestroy.cs" t="Include" />
             <e p="PlatformEmission.cs" t="Include" />
             <e p="PlatformMove.cs" t="Include" />
@@ -60,6 +61,9 @@
             <e p="NewEvent.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />
             <e p="Word.cs" t="Include" />
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="HighScores_SO.cs" t="Include" />
           </e>
           <e p="StartBehavior.cs" t="Include" />
         </e>
