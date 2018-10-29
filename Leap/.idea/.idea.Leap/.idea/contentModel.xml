@@ -35,11 +35,11 @@
             <e p="LevelManager.cs" t="Include" />
             <e p="Life.cs" t="Include" />
             <e p="MusicManager.cs" t="Include" />
+            <e p="OrbDestroy.cs" t="Include" />
             <e p="PlatDestroy.cs" t="Include" />
             <e p="PlatformEmission.cs" t="Include" />
             <e p="PlatformMove.cs" t="Include" />
             <e p="PlayerController.cs" t="Include" />
-            <e p="RomController.cs" t="Include" />
             <e p="ScoreBoard.cs" t="Include" />
             <e p="SeatDes.cs" t="Include" />
           </e>

@@ -1930,7 +1930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4771056870880162}
   m_Layer: 0
-  m_Name: SceneLevel
+  m_Name: GameScene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10541,9 +10541,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 393d6cf56a9a043b7ab104d5145b57af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  score: 0
-  currentDisplay: {fileID: 114602348654321976}
-  highscoreDisplay: {fileID: 0}
 --- !u!114 &114107141128389064
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -10724,6 +10721,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebf7ec8f2927442c4892130bd1598c98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  highScoresSo: {fileID: 0}
+  scoreboard: {fileID: 0}
 --- !u!114 &114365432066815598
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -10975,7 +10974,7 @@ SpriteRenderer:
   m_Size: {x: 2.04, y: 2.04}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!212 &212634137766758926
@@ -11021,7 +11020,7 @@ SpriteRenderer:
   m_Size: {x: 2.04, y: 2.04}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!222 &222071039283447900
