@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b59606b88148514488f6f14fef101094, type: 3}
+  m_Name: Auto Jump
+  m_EditorClassIdentifier: 
+  JumpSpeed: {fileID: 11400000, guid: 21c39f05c2cc94a7d9a271c969bebe65, type: 2}
+  Gravity: {fileID: 11400000, guid: cbd4091e4a6f143339ac099458505b15, type: 2}
+  MoveX: {fileID: 11400000, guid: 21c39f05c2cc94a7d9a271c969bebe65, type: 2}
+  MoveY: {fileID: 11400000, guid: 7d589199449ec44299f64f289dd1b130, type: 2}
+  MoveZ: {fileID: 11400000, guid: 21c39f05c2cc94a7d9a271c969bebe65, type: 2}
+  RotX: {fileID: 11400000, guid: 21c39f05c2cc94a7d9a271c969bebe65, type: 2}
+  RotY: {fileID: 11400000, guid: 21c39f05c2cc94a7d9a271c969bebe65, type: 2}
+  RotZ: {fileID: 11400000, guid: 21c39f05c2cc94a7d9a271c969bebe65, type: 2}
