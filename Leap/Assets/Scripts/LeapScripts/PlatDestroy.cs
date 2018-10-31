@@ -12,4 +12,5 @@ public class PlatDestroy : MonoBehaviour {
            Destroy(col.gameObject);
         }
     }
+
 }

@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 65040479860669242}
   - component: {fileID: 54298573871551264}
   - component: {fileID: 114067233551397412}
-  - component: {fileID: 114998098362875880}
+  - component: {fileID: 114770575163029494}
   m_Layer: 14
   m_Name: EvilPlat
   m_TagString: Untagged
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 250
---- !u!114 &114998098362875880
+--- !u!114 &114770575163029494
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -137,5 +137,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d14ed6800bc347a088f531ef0eb0834, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myLevelManager: {fileID: 114339760752091934, guid: 8f91b3249af79414dbe7bc526ea68d23,
-    type: 2}
+  myLevelManager: {fileID: 0}
