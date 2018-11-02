@@ -7,11 +7,20 @@ public class PlayerDestroy : MonoBehaviour {
 
 	public LevelManager myLevelManager;
     
-	void OnTriggerEnter (Collider trigger) {
+	void OnTriggerEnter (Collider trigger) 
+	{
 		myLevelManager.LevelLoad ("GameOver");
+/*	    
+		if (gameObject.CompareTag("BottomDeathPlayer"))
+		{
+			scoreValue = 0;
+		}
+*/		
 	}
-   
+      
 }
+
+
 
 /*
 public class PlayerDestroy : MonoBehaviour {

@@ -376,7 +376,7 @@ MonoBehaviour:
   MinSpawnTime: 3
   MaxSpawnTime: 7
   enemies:
-  - {fileID: 0}
+  - {fileID: 1068072923712564, guid: c790dc904f0ed40218f38cb801f84f72, type: 2}
 --- !u!1 &137279836
 GameObject:
   m_ObjectHideFlags: 0
@@ -1046,7 +1046,7 @@ MonoBehaviour:
   MinSpawnTime: 1
   MaxSpawnTime: 7
   enemies:
-  - {fileID: 0}
+  - {fileID: 1068072923712564, guid: c790dc904f0ed40218f38cb801f84f72, type: 2}
 --- !u!1 &474214753
 GameObject:
   m_ObjectHideFlags: 0
@@ -1093,7 +1093,7 @@ MonoBehaviour:
   MinSpawnTime: 2
   MaxSpawnTime: 7
   enemies:
-  - {fileID: 0}
+  - {fileID: 1068072923712564, guid: c790dc904f0ed40218f38cb801f84f72, type: 2}
 --- !u!1 &497795907
 GameObject:
   m_ObjectHideFlags: 0
