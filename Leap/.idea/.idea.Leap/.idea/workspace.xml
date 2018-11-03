@@ -12,32 +12,32 @@
     <session id="1491662785">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="10" />
+          <entry key="cs" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="10" />
+          <entry key="C#" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="347" />
+          <entry key="cs" value="429" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="347" />
+          <entry key="C#" value="429" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -172,7 +172,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/ScoreBoard.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -183,6 +183,25 @@
                 <marker date="1541124692000" expanded="true" signature="163:234" ph="{...}" />
                 <marker date="1541124692000" expanded="true" signature="265:322" ph="{...}" />
                 <marker date="1541124692000" expanded="true" signature="332:1185" ph="/* using System.Collections; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/HighScores_SO.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <marker date="1541224446000" expanded="true" signature="6:52" ph="..." />
+                <marker date="1541224446000" expanded="true" signature="167:792" ph="{...}" />
+                <marker date="1541224446000" expanded="true" signature="225:294" ph="/* public Text currentDisplay; ... */" />
+                <marker date="1541224446000" expanded="true" signature="334:368" ph="{...}" />
+                <marker date="1541224446000" expanded="true" signature="408:622" ph="{...}" />
+                <marker date="1541224446000" expanded="true" signature="654:715" ph="{...}" />
+                <marker date="1541224446000" expanded="true" signature="749:783" ph="{...}" />
+                <marker date="1541224446000" expanded="true" signature="794:1075" ph="/* using System.Collections; ... */" />
               </folding>
             </state>
           </provider>
@@ -203,6 +222,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/ScoreBoard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Count/HyperCount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/HighScores_SO.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -214,6 +234,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlatDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/ScoreBoard.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/HighScores_SO.cs" />
       </list>
     </option>
   </component>
@@ -223,7 +244,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -299,12 +320,13 @@
       <workItem from="1540943246118" duration="3437000" />
       <workItem from="1541013276105" duration="179000" />
       <workItem from="1541123654043" duration="1217000" />
-      <workItem from="1541128250059" duration="282000" />
+      <workItem from="1541128250059" duration="319000" />
+      <workItem from="1541223606236" duration="802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6554000" />
+    <option name="totallyTimeSpent" value="7393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,7 +341,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26678878" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26984128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -377,6 +399,20 @@
             <marker date="1540507126000" expanded="true" signature="857:985" ph="{...}" />
             <marker date="1540507126000" expanded="true" signature="1130:2057" ph="/* SECOND ... */" />
             <marker date="1540507126000" expanded="true" signature="2059:2822" ph="/* FIRST ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1541124726000" expanded="false" signature="6:118" ph="..." />
+            <marker date="1541124726000" expanded="true" signature="163:394" ph="{...}" />
+            <marker date="1541124726000" expanded="true" signature="248:385" ph="{...}" />
+            <marker date="1541124726000" expanded="true" signature="293:380" ph="/* if (gameObject.CompareTag(&quot;BottomDeathPlayer&quot;)) ... */" />
+            <marker date="1541124726000" expanded="true" signature="398:609" ph="/* public class PlayerDestroy : MonoBehaviour { ... */" />
           </folding>
         </state>
       </provider>
@@ -460,20 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/PlayerDestroy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <marker date="1541124726000" expanded="false" signature="6:118" ph="..." />
-            <marker date="1541124726000" expanded="true" signature="163:394" ph="{...}" />
-            <marker date="1541124726000" expanded="true" signature="248:385" ph="{...}" />
-            <marker date="1541124726000" expanded="true" signature="293:380" ph="/* if (gameObject.CompareTag(&quot;BottomDeathPlayer&quot;)) ... */" />
-            <marker date="1541124726000" expanded="true" signature="398:609" ph="/* public class PlayerDestroy : MonoBehaviour { ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeapScripts/ScoreBoard.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -484,6 +506,23 @@
             <marker date="1541124692000" expanded="true" signature="163:234" ph="{...}" />
             <marker date="1541124692000" expanded="true" signature="265:322" ph="{...}" />
             <marker date="1541124692000" expanded="true" signature="332:1185" ph="/* using System.Collections; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/HighScores_SO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <marker date="1541224446000" expanded="true" signature="6:52" ph="..." />
+            <marker date="1541224446000" expanded="true" signature="167:792" ph="{...}" />
+            <marker date="1541224446000" expanded="true" signature="225:294" ph="/* public Text currentDisplay; ... */" />
+            <marker date="1541224446000" expanded="true" signature="334:368" ph="{...}" />
+            <marker date="1541224446000" expanded="true" signature="408:622" ph="{...}" />
+            <marker date="1541224446000" expanded="true" signature="654:715" ph="{...}" />
+            <marker date="1541224446000" expanded="true" signature="749:783" ph="{...}" />
+            <marker date="1541224446000" expanded="true" signature="794:1075" ph="/* using System.Collections; ... */" />
           </folding>
         </state>
       </provider>
