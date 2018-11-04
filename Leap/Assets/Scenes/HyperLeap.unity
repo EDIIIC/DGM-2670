@@ -2125,8 +2125,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebf7ec8f2927442c4892130bd1598c98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  highScoresSo: {fileID: 0}
-  scoreboard: {fileID: 0}
+  highScoresSo: {fileID: 11400000, guid: b8af2dfa97261418da50c3c34b8b5b38, type: 2}
+  scoreboard: {fileID: 1087672818378954, guid: c67f8131c566f4efab7d1aa4e4056cea, type: 2}
 --- !u!4 &521486387
 Transform:
   m_ObjectHideFlags: 0

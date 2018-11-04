@@ -12,12 +12,12 @@
     <session id="1491662785">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="429" />
+          <entry key="cs" value="433" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="429" />
+          <entry key="C#" value="433" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -191,17 +191,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/HighScores_SO.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="600">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <marker date="1541224446000" expanded="true" signature="6:52" ph="..." />
-                <marker date="1541224446000" expanded="true" signature="167:792" ph="{...}" />
-                <marker date="1541224446000" expanded="true" signature="225:294" ph="/* public Text currentDisplay; ... */" />
-                <marker date="1541224446000" expanded="true" signature="334:368" ph="{...}" />
-                <marker date="1541224446000" expanded="true" signature="408:622" ph="{...}" />
-                <marker date="1541224446000" expanded="true" signature="654:715" ph="{...}" />
-                <marker date="1541224446000" expanded="true" signature="749:783" ph="{...}" />
-                <marker date="1541224446000" expanded="true" signature="794:1075" ph="/* using System.Collections; ... */" />
+                <marker date="1541310592000" expanded="false" signature="6:52" ph="..." />
+                <marker date="1541310592000" expanded="true" signature="167:792" ph="{...}" />
+                <marker date="1541310592000" expanded="true" signature="225:294" ph="/* public Text currentDisplay; ... */" />
+                <marker date="1541310592000" expanded="true" signature="334:368" ph="{...}" />
+                <marker date="1541310592000" expanded="true" signature="374:786" ph="/* public void SaveScore() ... */" />
+                <marker date="1541310592000" expanded="true" signature="794:1075" ph="/* using System.Collections; ... */" />
               </folding>
             </state>
           </provider>
@@ -255,9 +253,6 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -269,6 +264,9 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -321,12 +319,13 @@
       <workItem from="1541013276105" duration="179000" />
       <workItem from="1541123654043" duration="1217000" />
       <workItem from="1541128250059" duration="319000" />
-      <workItem from="1541223606236" duration="802000" />
+      <workItem from="1541223606236" duration="910000" />
+      <workItem from="1541310512016" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7393000" />
+    <option name="totallyTimeSpent" value="7606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,7 +340,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26984128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2728938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -512,17 +511,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/HighScores_SO.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="600">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
-            <marker date="1541224446000" expanded="true" signature="6:52" ph="..." />
-            <marker date="1541224446000" expanded="true" signature="167:792" ph="{...}" />
-            <marker date="1541224446000" expanded="true" signature="225:294" ph="/* public Text currentDisplay; ... */" />
-            <marker date="1541224446000" expanded="true" signature="334:368" ph="{...}" />
-            <marker date="1541224446000" expanded="true" signature="408:622" ph="{...}" />
-            <marker date="1541224446000" expanded="true" signature="654:715" ph="{...}" />
-            <marker date="1541224446000" expanded="true" signature="749:783" ph="{...}" />
-            <marker date="1541224446000" expanded="true" signature="794:1075" ph="/* using System.Collections; ... */" />
+            <marker date="1541310592000" expanded="false" signature="6:52" ph="..." />
+            <marker date="1541310592000" expanded="true" signature="167:792" ph="{...}" />
+            <marker date="1541310592000" expanded="true" signature="225:294" ph="/* public Text currentDisplay; ... */" />
+            <marker date="1541310592000" expanded="true" signature="334:368" ph="{...}" />
+            <marker date="1541310592000" expanded="true" signature="374:786" ph="/* public void SaveScore() ... */" />
+            <marker date="1541310592000" expanded="true" signature="794:1075" ph="/* using System.Collections; ... */" />
           </folding>
         </state>
       </provider>

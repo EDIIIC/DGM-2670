@@ -17,7 +17,7 @@ public class HighScores_SO : ScriptableObject
         //does stuff?
     }
     
-//    
+/*    
     public void SaveScore()
     {
         //Check previous score
@@ -39,7 +39,7 @@ public class HighScores_SO : ScriptableObject
     {
         SaveScore ();
     }
-//
+*/
    
 }
 
