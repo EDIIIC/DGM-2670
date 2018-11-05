@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using UnityEngine.Events;
+using System.Collections;
 using UnityEngine;
 
 public class Draggable : MonoBehaviour 
@@ -9,6 +10,8 @@ public class Draggable : MonoBehaviour
 	private Camera cam;
 
 	public bool CanDrag;
+	public UnityEvent OnDrag;
+	public UnityEvent OnUp;
 	
 	private void Start()
 	{
@@ -17,6 +20,7 @@ public class Draggable : MonoBehaviour
 
 	public IEnumerator OnMouseDown()
 	{
+		OnDrag.Invoke();
 		offsetPosition = transform.position - cam.ScreenToWorldPoint(Input.mousePosition);
 		yield return new WaitForFixedUpdate();
 		CanDrag = true;
@@ -31,5 +35,6 @@ public class Draggable : MonoBehaviour
 	private void OnMouseUp()
 	{
 		CanDrag = false;
+		OnUp.Invoke();
 	}
 }

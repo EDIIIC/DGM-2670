@@ -1,26 +1,55 @@
-﻿using UnityEngine;
-using UnityEngine.Events;
+﻿using UnityEngine.Events;
+using UnityEngine;
+
 
 public class MatchID : MonoBehaviour
 {
-    public NameID ID;
+    public NameID Id;
+    private NameID id;
     public UnityEvent OnMatch;
-    
+    public UnityEvent NoMatch;
+//    public UnityEvent OnRestart;
+//    public FloatData HoldTime;
+//    public BoolData Matched;
+
     public void OnTriggerEnter(Collider other)
     {
         var id = other.GetComponent<ObjectID>().ID;
-        Call(id);              
+        CompareMatch(id);
     }
 
-    public void Call(NameID id)
+    public void CompareMatch(NameID match)
     {
-        if (id == ID)
+        if (match == Id)
+        {
+//            Matched.Value = true;
             OnMatch.Invoke();
-        print("Match motha flippa");
+            print("Match motha flippa");
+//            StartCoroutine(Restart());
+        }
+        else
+        {
+            NoMatch.Invoke();
+        }
     }
+/*
+    public void CallRestart()
+    {
+        StartCoroutine(Restart());
+    }
+
+    public IEnumerator Restart()
+    {
+        if (Matched)
+        {
+            yield return new WaitForSeconds(HoldTime.Value);
+        }
+
+        Matched.Value = false;
+        OnRestart.Invoke();
+    }
+*/ 
 }
-
-
 
 
 /*
@@ -38,5 +67,4 @@ public class MatchID : MonoBehaviour
         }
     }
 }
-
  */

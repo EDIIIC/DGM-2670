@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
 using UnityEngine;
 [CreateAssetMenu(fileName = "IntData")]
-public class IntData : MonoBehaviour
+public class IntData : ScriptableObject
 {
     public int Value;
 }

@@ -28,6 +28,7 @@
             <e p="PerpetualCounter.cs" t="Include" />
             <e p="RunCountDown.cs" t="Include" />
           </e>
+          <e p="DebugObject.cs" t="Include" />
           <e p="ForEachLoops.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
@@ -65,6 +66,7 @@
           <e p="ScriptableObjects" t="Include">
             <e p="HighScores_SO.cs" t="Include" />
           </e>
+          <e p="SimpleAi.cs" t="Include" />
           <e p="StartBehavior.cs" t="Include" />
         </e>
       </e>
