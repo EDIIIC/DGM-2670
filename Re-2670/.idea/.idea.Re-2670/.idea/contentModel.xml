@@ -12,7 +12,7 @@
         <e p="Scripts" t="Include">
           <e p="AIAgent.cs" t="Include" />
           <e p="AIhealth.cs" t="Include" />
-          <e p="ColorLetters" t="Include">
+          <e p="ColorMatch" t="Include">
             <e p="ChangeColor.cs" t="Include" />
             <e p="Draggable.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
@@ -20,6 +20,7 @@
             <e p="Letters.cs" t="Include" />
             <e p="MatchID.cs" t="Include" />
             <e p="PurchasableObject.cs" t="Include" />
+            <e p="PurchasableObjectGenerator.cs" t="Include" />
             <e p="Snap.cs" t="Include" />
             <e p="Store.cs" t="Include" />
           </e>
