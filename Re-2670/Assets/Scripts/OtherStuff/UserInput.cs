@@ -5,7 +5,7 @@ using UnityEngine;
 public class UserInput : MonoBehaviour
 {
 
-	public Actions Action;
+	public ActionObject Action;
 
 	private void OnMouseDown()
 	{

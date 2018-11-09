@@ -2,14 +2,14 @@
 using UnityEngine.Events;
 using Object = UnityEngine.Object;
 
+[CreateAssetMenu(fileName = "Store", menuName = "Store/StoreFront")]
 public class Store : ScriptableObject
 {
 
-	public Object Available;
-	public Object Purchased;
+	public PurchasableObject Available;
+	public PurchasableObject Purchased;
 	public int Cash;
 	public int TotalValue = 3000;
-/*
  
 	public UnityEvent MadePurchase;
 
@@ -38,9 +38,21 @@ public class Store : ScriptableObject
 			{
 				var item = Available.ObjectList[0];
 				Purchased.Object.Add(item);
-				Available.ObjectList.RemoveAt(0);
 			}
+			
+			Available.ObjectList.RemoveAt(0);
 		}
 	}
-*/
+
+	private void OnEnable()
+	{
+		TotalValue = 0;
+		foreach (var item in Available.ObjectList)
+		{
+			var newItem = item as PurchasableObject;
+			TotalValue += newItem.Value;
+		}
+
+		TotalValue = 75;
+	}
 }

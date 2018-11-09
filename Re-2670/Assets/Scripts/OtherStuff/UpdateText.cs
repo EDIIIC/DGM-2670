@@ -14,12 +14,14 @@ public class UpdateText : MonoBehaviour
 	void Start ()
 	{
 		Label = GetComponent<Text>();
+		Label.text = number.Value.ToString();
 		Action.Raise += RaiseHandler;
 	}
 
 	private void RaiseHandler()
 	{
 		number.Value++;
+		Label.text = number.Value.ToString();
 	}
 
 }

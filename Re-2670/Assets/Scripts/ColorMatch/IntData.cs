@@ -7,6 +7,9 @@ public class IntData : ScriptableObject
 {
     public int Value;
 
-//    public void UpdateValue(int 1);
+    public void UpdateValue(int i)
+    {
+        Value += i;
+    }
     
 }

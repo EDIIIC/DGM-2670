@@ -5,22 +5,19 @@ using UnityEngine;
 
 public class PurchasableObjectGenerator : MonoBehaviour
 {
-	/*
-	public Object Purchased;
+	
+	public PurchasableObject Purchased;
 	
 	void Start ()
 	{
-		fore (var isActiveAndEnabled = 0; isActiveAndEnabled < Purchased.ObjectList.Count)
+		for (var i = 0; i < Purchased.ObjectList.Count; i++)
 		{
+			var obj = Purchased.ObjectList[i];
 			obj.CreateItem();
-			if(!obj.Perpetual)
-			{}
+			if (!obj.Perpetual)
+			{
+				Purchased.ObjectList.Remove(obj);
+			}
 		}
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-	*/
 }

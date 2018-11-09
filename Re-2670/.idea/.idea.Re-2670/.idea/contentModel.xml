@@ -19,6 +19,7 @@
             <e p="Letter.cs" t="Include" />
             <e p="Letters.cs" t="Include" />
             <e p="MatchID.cs" t="Include" />
+            <e p="Objects.cs" t="Include" />
             <e p="PurchasableObject.cs" t="Include" />
             <e p="PurchasableObjectGenerator.cs" t="Include" />
             <e p="Snap.cs" t="Include" />
@@ -62,7 +63,6 @@
             <e p="FloatBool.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
-            <e p="IntData.cs" t="Include" />
             <e p="NewEvent.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />
             <e p="UpdateText.cs" t="Include" />
