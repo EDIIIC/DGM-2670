@@ -63,6 +63,7 @@
             <e p="FloatBool.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
+            <e p="GameAction.cs" t="Include" />
             <e p="NewEvent.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />
             <e p="UpdateText.cs" t="Include" />
