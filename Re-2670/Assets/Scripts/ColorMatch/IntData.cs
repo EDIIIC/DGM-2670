@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
 using UnityEngine;
-[CreateAssetMenu(fileName = "Single Variables/IntData")]
+[CreateAssetMenu(menuName = "Single Variables/IntData")]
 public class IntData : ScriptableObject
 {
     public int Value;
@@ -10,6 +10,11 @@ public class IntData : ScriptableObject
     public void UpdateValue(int i)
     {
         Value += i;
+    }
+
+    public void UpdateValue(IntData data)
+    {
+        Value += data.Value;
     }
     
 }

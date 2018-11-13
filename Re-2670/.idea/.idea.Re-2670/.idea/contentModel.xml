@@ -31,6 +31,7 @@
             <e p="RunCountDown.cs" t="Include" />
           </e>
           <e p="DebugObject.cs" t="Include" />
+          <e p="Destroyer.cs" t="Include" />
           <e p="ForEachLoops.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
@@ -63,6 +64,7 @@
             <e p="FloatBool.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
+            <e p="FollowMouse.cs" t="Include" />
             <e p="GameAction.cs" t="Include" />
             <e p="NewEvent.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />

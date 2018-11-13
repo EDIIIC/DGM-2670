@@ -7,21 +7,18 @@ using UnityEngine.UI;
 public class UpdateText : MonoBehaviour
 {
 
-	public ActionObject Action;
-	private Text Label;
-	private IntData number;
+	public IntData Data;
+	private Text label;
 	
 	void Start ()
 	{
-		Label = GetComponent<Text>();
-		Label.text = number.Value.ToString();
-		Action.Raise += RaiseHandler;
+		label = GetComponent<Text>();
+		OnUpdate();
 	}
 
-	private void RaiseHandler()
+	public void OnUpdate()
 	{
-		number.Value++;
-		Label.text = number.Value.ToString();
+		label.text = Data.Value.ToString("C0");
 	}
 
 }
