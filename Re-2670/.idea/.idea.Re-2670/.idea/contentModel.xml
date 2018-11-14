@@ -33,6 +33,7 @@
           <e p="DebugObject.cs" t="Include" />
           <e p="Destroyer.cs" t="Include" />
           <e p="ForEachLoops.cs" t="Include" />
+          <e p="FPSrot.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
             <e p="ObjectID.cs" t="Include" />

@@ -21,7 +21,6 @@ public class PlayerController : MonoBehaviour
 
    void Update()
    {
-
       if (controller.isGrounded)
       {       
          moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, 0);
