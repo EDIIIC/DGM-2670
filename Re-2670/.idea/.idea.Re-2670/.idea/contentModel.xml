@@ -11,7 +11,6 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="AIAgent.cs" t="Include" />
-          <e p="AIhealth.cs" t="Include" />
           <e p="ColorMatch" t="Include">
             <e p="ChangeColor.cs" t="Include" />
             <e p="Draggable.cs" t="Include" />
@@ -34,6 +33,7 @@
           <e p="Destroyer.cs" t="Include" />
           <e p="ForEachLoops.cs" t="Include" />
           <e p="FPSrot.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
             <e p="ObjectID.cs" t="Include" />
