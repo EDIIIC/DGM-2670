@@ -336,6 +336,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startingSpin: 180
   speed: 15
+  player: {fileID: 0}
+  rigid: {fileID: 0}
 --- !u!135 &135187448322393746
 SphereCollider:
   m_ObjectHideFlags: 1

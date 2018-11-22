@@ -14,7 +14,7 @@ public class BulletEmission : MonoBehaviour
         //if (Input.GetKeyDown (KeyCode.F)) 
         {
             GameObject shot = Instantiate(projectile, shotPos.position, shotPos.rotation);
-            shot.GetComponent<Rigidbody2D>().AddForce(shotPos.up * shotForce);
+            shot.GetComponent<Rigidbody>().AddForce(shotPos.up * shotForce);
         }
     }
-}
+} 

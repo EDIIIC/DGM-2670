@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Bottle.cs" t="Include" />
+          <e p="BottleEmission.cs" t="Include" />
           <e p="BulletEmission.cs" t="Include" />
           <e p="BulletMove.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
