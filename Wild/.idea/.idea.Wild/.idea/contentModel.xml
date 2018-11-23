@@ -7,12 +7,14 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="AutoDestroy.cs" t="Include" />
           <e p="Bottle.cs" t="Include" />
           <e p="BottleEmission.cs" t="Include" />
           <e p="BulletEmission.cs" t="Include" />
           <e p="BulletMove.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
           <e p="Emission.cs" t="Include" />
+          <e p="FPSLook.cs" t="Include" />
           <e p="GunMove.cs" t="Include" />
           <e p="LevelManager.cs" t="Include" />
           <e p="MusicManager.cs" t="Include" />
