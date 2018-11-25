@@ -15,11 +15,11 @@
           <e p="Destroy.cs" t="Include" />
           <e p="Emission.cs" t="Include" />
           <e p="FPSLook.cs" t="Include" />
-          <e p="GunMove.cs" t="Include" />
           <e p="LevelManager.cs" t="Include" />
           <e p="MusicManager.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
           <e p="Scoreboard.cs" t="Include" />
+          <e p="SideScroll.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33122079137660830}
   - component: {fileID: 23955626387771206}
   - component: {fileID: 54456212280549782}
-  - component: {fileID: 114840048348627568}
+  - component: {fileID: 114978982127594162}
   m_Layer: 10
   m_Name: Bullet
   m_TagString: Untagged
@@ -36,13 +36,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1965581733313100}
-  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.13659376, y: 0.1365937, z: 0.13659376}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!23 &23955626387771206
 MeshRenderer:
   m_ObjectHideFlags: 1
@@ -100,7 +100,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &114840048348627568
+--- !u!114 &114978982127594162
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -108,7 +108,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1965581733313100}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 11d45d7f09e5b4e549cc8aa36eda38da, type: 3}
+  m_Script: {fileID: 11500000, guid: b212936087322432da54c74b8f794117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 750
+  lifetime: 5
