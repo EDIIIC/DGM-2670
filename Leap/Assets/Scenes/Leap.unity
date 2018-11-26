@@ -4696,7 +4696,7 @@ GameObject:
   - component: {fileID: 782904520}
   - component: {fileID: 782904519}
   m_Layer: 10
-  m_Name: platform(Clone) (3)
+  m_Name: platform(Clone)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5657,7 +5657,7 @@ GameObject:
   - component: {fileID: 901829098}
   - component: {fileID: 901829097}
   m_Layer: 10
-  m_Name: platform(Clone) (2)
+  m_Name: platform(Clone)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6296,7 +6296,7 @@ GameObject:
   - component: {fileID: 1017538571}
   - component: {fileID: 1017538570}
   m_Layer: 10
-  m_Name: platform(Clone) (6)
+  m_Name: platform(Clone)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6500,7 +6500,7 @@ GameObject:
   - component: {fileID: 1055823294}
   - component: {fileID: 1055823293}
   m_Layer: 10
-  m_Name: platform(Clone) (5)
+  m_Name: platform(Clone)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7879,7 +7879,7 @@ GameObject:
   - component: {fileID: 1246074786}
   - component: {fileID: 1246074785}
   m_Layer: 10
-  m_Name: platform(Clone) (4)
+  m_Name: platform(Clone)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12617,7 +12617,7 @@ GameObject:
   - component: {fileID: 2074073639}
   - component: {fileID: 2074073638}
   m_Layer: 10
-  m_Name: platform(Clone) (7)
+  m_Name: platform(Clone)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
