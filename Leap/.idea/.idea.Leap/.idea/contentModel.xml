@@ -9,7 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="AIAgent.cs" t="Include" />
           <e p="AIhealth.cs" t="Include" />
-          <e p="ColorLetters" t="Include">
+          <e p="ColorScripts" t="Include">
             <e p="Draggable.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
             <e p="MatchID.cs" t="Include" />
@@ -17,28 +17,22 @@
             <e p="Snap.cs" t="Include" />
             <e p="Store.cs" t="Include" />
           </e>
-          <e p="Count" t="Include">
-            <e p="ExperimentalCounter.cs" t="Include" />
-            <e p="HyperCount.cs" t="Include" />
-            <e p="PerpetualCounter.cs" t="Include" />
-            <e p="RunCountDown.cs" t="Include" />
-          </e>
           <e p="ForEachLoops.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
             <e p="ObjectID.cs" t="Include" />
           </e>
           <e p="InstanceObject.cs" t="Include" />
-          <e p="LeapScripts" t="Include">
+          <e p="LevelScripts" t="Include">
+            <e p="HyperCount.cs" t="Include" />
             <e p="LevelManager.cs" t="Include" />
             <e p="Life.cs" t="Include" />
+            <e p="MenuController.cs" t="Include" />
             <e p="MusicManager.cs" t="Include" />
             <e p="OrbDestroy.cs" t="Include" />
             <e p="PlatDestroy.cs" t="Include" />
-            <e p="PlatformEmission.cs" t="Include" />
-            <e p="PlatformMove.cs" t="Include" />
-            <e p="PlayerController.cs" t="Include" />
             <e p="PlayerDestroy.cs" t="Include" />
+            <e p="RunCountDown.cs" t="Include" />
             <e p="ScoreBoard.cs" t="Include" />
             <e p="SeatDes.cs" t="Include" />
           </e>
@@ -47,6 +41,9 @@
             <e p="MovePattern.cs" t="Include" />
             <e p="MovePatternDual.cs" t="Include" />
             <e p="MovePatternNotGrounded.cs" t="Include" />
+            <e p="PlatformEmission.cs" t="Include" />
+            <e p="PlatformMove.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
           </e>
           <e p="OtherStuff" t="Include">
             <e p="FloatBool.cs" t="Include" />
