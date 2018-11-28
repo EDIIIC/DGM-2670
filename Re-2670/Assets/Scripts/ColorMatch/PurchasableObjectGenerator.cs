@@ -1,12 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Security.AccessControl;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PurchasableObjectGenerator : MonoBehaviour
 {
-	
 	public PurchasableObject Purchased;
+	
 	
 	void Start ()
 	{

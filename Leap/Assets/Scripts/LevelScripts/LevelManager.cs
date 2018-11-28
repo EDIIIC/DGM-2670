@@ -13,7 +13,7 @@ public class LevelManager : MonoBehaviour
 
     
     void Update () {
-        if (Input.GetKeyDown (KeyCode.Escape)) 
+        if (Input.GetKeyDown (KeyCode.Return)) 
         {
             SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex - 1);
         }
