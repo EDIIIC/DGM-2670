@@ -12,7 +12,7 @@
     <session id="1491662785">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -24,22 +24,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="21" />
+          <entry key="cs" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="21" />
+          <entry key="C#" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="764" />
+          <entry key="cs" value="773" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="764" />
+          <entry key="C#" value="773" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -89,12 +89,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/OtherStuff/NewEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="180">
               <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
-                <marker date="1543384514000" expanded="false" signature="6:44" ph="..." />
-                <marker date="1543384514000" expanded="true" signature="83:167" ph="{...}" />
-                <marker date="1543384514000" expanded="true" signature="141:165" ph="{...}" />
+                <marker date="1543384542000" expanded="true" signature="6:44" ph="..." />
+                <marker date="1543384542000" expanded="true" signature="83:167" ph="{...}" />
+                <marker date="1543384542000" expanded="true" signature="141:165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/OtherStuff/TriggerEnterEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <marker date="1538599154000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1538599154000" expanded="true" signature="92:211" ph="{...}" />
+                <marker date="1538599154000" expanded="true" signature="173:209" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -106,6 +120,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OtherStuff/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OtherStuff/NewEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelScripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/HighScores_SO.cs" root0="FORCE_HIGHLIGHTING" />
@@ -124,6 +139,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/HighScores_SO.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelScripts/LevelManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelScripts/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OtherStuff/TriggerEnterEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OtherStuff/NewEvent.cs" />
       </list>
     </option>
@@ -219,12 +235,12 @@
       <workItem from="1542963826441" duration="16000" />
       <workItem from="1543013352466" duration="52000" />
       <workItem from="1543118816493" duration="35000" />
-      <workItem from="1543380871250" duration="2104000" />
+      <workItem from="1543380871250" duration="2405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10951000" />
+    <option name="totallyTimeSpent" value="11252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -416,14 +432,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OtherStuff/TriggerEnterEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <marker date="1538599154000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1538599154000" expanded="true" signature="92:211" ph="{...}" />
+            <marker date="1538599154000" expanded="true" signature="173:209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/OtherStuff/NewEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="180">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
-            <marker date="1543384514000" expanded="false" signature="6:44" ph="..." />
-            <marker date="1543384514000" expanded="true" signature="83:167" ph="{...}" />
-            <marker date="1543384514000" expanded="true" signature="141:165" ph="{...}" />
+            <marker date="1543384542000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1543384542000" expanded="true" signature="83:167" ph="{...}" />
+            <marker date="1543384542000" expanded="true" signature="141:165" ph="{...}" />
           </folding>
         </state>
       </provider>
