@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 54263211208316256}
   - component: {fileID: 114928023085906674}
   - component: {fileID: 114243051308044266}
+  - component: {fileID: 114341074706166350}
   m_Layer: 14
   m_Name: Pillar
   m_TagString: Untagged
@@ -59,7 +60,7 @@ Transform:
   m_GameObject: {fileID: 1355369919179156}
   m_LocalRotation: {x: -0.000000014901161, y: 0.000000014416222, z: 0.000000015370807,
     w: 1.0000001}
-  m_LocalPosition: {x: 0.00000015739498, y: 8.87, z: -5.92}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.594622, y: 15.59514, z: 0.3439128}
   m_Children:
   - {fileID: 4813848329484318}
@@ -94,7 +95,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 7ce1cd597342f42daa8dcabf1f3bd521, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -129,7 +130,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 7ce1cd597342f42daa8dcabf1f3bd521, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -227,6 +228,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myLevelManager: {fileID: 114339760752091934, guid: 8f91b3249af79414dbe7bc526ea68d23,
     type: 2}
+--- !u!114 &114341074706166350
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1355369919179156}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f3bd8c0de7f4841b9ae6943d29e044, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lifetime: 40
 --- !u!114 &114928023085906674
 MonoBehaviour:
   m_ObjectHideFlags: 1
