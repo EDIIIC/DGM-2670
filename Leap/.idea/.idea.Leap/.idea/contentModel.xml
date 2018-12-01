@@ -9,14 +9,6 @@
         <e p="Scripts" t="Include">
           <e p="AIAgent.cs" t="Include" />
           <e p="AIhealth.cs" t="Include" />
-          <e p="ColorScripts" t="Include">
-            <e p="Draggable.cs" t="Include" />
-            <e p="IntData.cs" t="Include" />
-            <e p="MatchID.cs" t="Include" />
-            <e p="PurchasableObject.cs" t="Include" />
-            <e p="Snap.cs" t="Include" />
-            <e p="Store.cs" t="Include" />
-          </e>
           <e p="ForEachLoops.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
@@ -46,10 +38,16 @@
             <e p="PlayerController.cs" t="Include" />
           </e>
           <e p="OtherStuff" t="Include">
+            <e p="Draggable.cs" t="Include" />
             <e p="FloatBool.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
+            <e p="IntData.cs" t="Include" />
+            <e p="MatchID.cs" t="Include" />
             <e p="NewEvent.cs" t="Include" />
+            <e p="PurchasableObject.cs" t="Include" />
+            <e p="Snap.cs" t="Include" />
+            <e p="Store.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />
             <e p="Word.cs" t="Include" />
           </e>

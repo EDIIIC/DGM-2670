@@ -26,9 +26,9 @@ public class RunCountDown : MonoBehaviour
 		label.text = "JUMP TO SURVIVE";
 		yield return new WaitForSeconds(2);
 		label.text = "HIT THEM FOR POINTS";
+		//yield return new WaitForSeconds(3);
+		//label.text = "HERE THEY COME";
 		yield return new WaitForSeconds(3);
-		label.text = "HERE THEY COME";
-		yield return new WaitForSeconds(4);
 		label.text = "";
 	}
 }
