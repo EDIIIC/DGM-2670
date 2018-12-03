@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/LeapStart.unity
+    path: Assets/Scenes/MainMenu.unity
     guid: 0e59c1b1b002d4f9b992340bbe8a2a70
   - enabled: 1
     path: Assets/Scenes/Leap.unity
