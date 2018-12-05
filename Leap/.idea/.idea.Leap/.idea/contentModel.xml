@@ -7,15 +7,13 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="AIAgent.cs" t="Include" />
-          <e p="AIhealth.cs" t="Include" />
-          <e p="ForEachLoops.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
             <e p="ObjectID.cs" t="Include" />
           </e>
-          <e p="InstanceObject.cs" t="Include" />
           <e p="LevelScripts" t="Include">
+            <e p="ColorChangeEvent.cs" t="Include" />
+            <e p="ColorData.cs" t="Include" />
             <e p="HyperCount.cs" t="Include" />
             <e p="LevelManager.cs" t="Include" />
             <e p="MenuController.cs" t="Include" />
@@ -37,9 +35,7 @@
             <e p="PlayerController.cs" t="Include" />
           </e>
           <e p="OtherStuff" t="Include">
-            <e p="ColorChangeEvent.cs" t="Include" />
             <e p="Destroyer.cs" t="Include" />
-            <e p="EventManager.cs" t="Include" />
             <e p="FloatBool.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
@@ -47,10 +43,10 @@
             <e p="IntData.cs" t="Include" />
             <e p="NewEvent.cs" t="Include" />
             <e p="PurchasableObject.cs" t="Include" />
-            <e p="Store.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />
           </e>
           <e p="StartBehavior.cs" t="Include" />
+          <e p="Store.cs" t="Include" />
         </e>
       </e>
       <e p="Leap.sln" t="IncludeFlat" />

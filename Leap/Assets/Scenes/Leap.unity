@@ -4968,9 +4968,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &782904520
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5236,18 +5233,14 @@ Transform:
 --- !u!114 &826505516
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114775530649186118, guid: 3237627effd7e4910a43969660901de7,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 826505514}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
+  m_Script: {fileID: 11500000, guid: c951c84424c2e48959de0108db6020e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &826505517
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5929,9 +5922,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &901829098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6568,9 +6558,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &1017538571
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6923,9 +6910,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &1055823294
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8302,9 +8286,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &1246074786
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8882,9 +8863,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &1309908785
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13185,9 +13163,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &2074073639
 MonoBehaviour:
   m_ObjectHideFlags: 0

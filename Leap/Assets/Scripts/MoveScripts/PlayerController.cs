@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour
       }
       else
       {
-//       Left/Right movement in mid air allowed
+//       Left/Right movement in air allowed
          moveDirection.x = Input.GetAxis("Horizontal") * speed;
       }
       moveDirection.y -= gravity * Time.deltaTime;
