@@ -37,17 +37,18 @@
             <e p="PlayerController.cs" t="Include" />
           </e>
           <e p="OtherStuff" t="Include">
+            <e p="ColorChangeEvent.cs" t="Include" />
+            <e p="Destroyer.cs" t="Include" />
+            <e p="EventManager.cs" t="Include" />
             <e p="FloatBool.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
+            <e p="HighScores_SO.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
             <e p="NewEvent.cs" t="Include" />
             <e p="PurchasableObject.cs" t="Include" />
             <e p="Store.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />
-          </e>
-          <e p="ScriptableObjects" t="Include">
-            <e p="HighScores_SO.cs" t="Include" />
           </e>
           <e p="StartBehavior.cs" t="Include" />
         </e>

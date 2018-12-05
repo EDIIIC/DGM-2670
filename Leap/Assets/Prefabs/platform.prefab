@@ -165,12 +165,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1068072923712564}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3dcc7d69d287445ffa5de190ee27c27b, type: 3}
+  m_Script: {fileID: 11500000, guid: c951c84424c2e48959de0108db6020e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  life: 1
-  hearts: []
-  scoreboard: {fileID: 0}
 --- !u!114 &114305053533913410
 MonoBehaviour:
   m_ObjectHideFlags: 1
