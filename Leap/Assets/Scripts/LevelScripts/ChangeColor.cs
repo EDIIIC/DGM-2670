@@ -2,15 +2,13 @@
 
 public class ChangeColor : MonoBehaviour
 {
-    void OnCollisionEnter(Collision col)
-     {
-         if (col.gameObject.name == "Player")
-         {
-             new Color(Random.value, Random.value, Random.value);
-            // renderer.material.color = col;   
-             print ("change color");
-         }
-     }
+    public void Change()
+    {
+        Color col = new Color(Random.value, Random.value, Random.value);
+        gameObject.GetComponent<Renderer>().material.color = col;   
+        print("change color");
+    }
+
 }
 
 
