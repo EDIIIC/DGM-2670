@@ -127,8 +127,8 @@ GameObject:
   - component: {fileID: 29476626}
   - component: {fileID: 29476625}
   - component: {fileID: 29476624}
-  - component: {fileID: 29476623}
   - component: {fileID: 29476622}
+  - component: {fileID: 29476623}
   m_Layer: 9
   m_Name: Player
   m_TagString: Player
@@ -234,8 +234,7 @@ AudioSource:
 --- !u!114 &29476623
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114262361150810602, guid: 3237627effd7e4910a43969660901de7,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 29476621}
   m_Enabled: 1
@@ -243,9 +242,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 456d7826db7fe43159bc028688603e90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  jumpSpeed: 11
-  gravity: 13
+  speed: 4
+  jumpSpeed: 4
+  gravity: 4
 --- !u!54 &29476624
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1446,7 +1445,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 908734300}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8534752, y: -11.68773, z: 10.699456}
+  m_LocalPosition: {x: 1.8534752, y: -6.15, z: 10.699456}
   m_LocalScale: {x: 0.41568998, y: 24.35883, z: 0.35187998}
   m_Children:
   - {fileID: 727148979}

@@ -2,10 +2,16 @@
 
 public class ChangeColor : MonoBehaviour
 {
- 
+    void OnCollisionEnter(Collision col)
+     {
+         if (col.gameObject.name == "Player")
+         {
+             new Color(Random.value, Random.value, Random.value);
+            // renderer.material.color = col;   
+             print ("change color");
+         }
+     }
 }
-
-
 
 
 /*
@@ -26,26 +32,9 @@ public class ChangeColor : MonoBehaviour
     }
 */    
 
-
-/*
-   void OnCollisionEnter (UnityEngine.Collision col)
-    {
-        if (col.gameObject.name == "Player")
-        {
-            //
-            Color col = new Color(Random.value, Random.value, Random.value);
-            renderer.material.color = col;   
-            //
-            print ("change color");
-        }
-    }
-*/
-
-
 /*
     public ColorData Color;
  
-  
          public void Call(SpriteRenderer spriteRenderer)
          {
              spriteRenderer.color = Color.Value;

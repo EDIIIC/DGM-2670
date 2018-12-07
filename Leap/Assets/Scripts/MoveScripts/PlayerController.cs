@@ -46,25 +46,44 @@ public class PlayerController : MonoBehaviour
 
 
 
+/*
+ FIRST
+using UnityEngine;
+
+[RequireComponent(typeof(Rigidbody))]
+public class PlayerController : MonoBehaviour
+{
+
+   public float thrusterForce;
+
+   private Rigidbody rigid;
+   public int health;
+   public float moveSpeed;
+   public GameObject levelManager;
 
 
+   void Start()
+   {
+      rigid = GetComponent<Rigidbody>();
+      print(GetComponent<Health>().GetHealth());
+   }
 
+   void Update()
+   {
 
+      if (Input.GetKey(KeyCode.Space))
+      {
+         rigid.AddRelativeForce(new Vector2(0f, thrusterForce));
 
+         //KEYS TO MOVE
+         float h = Input.GetAxis("Horizontal") * Time.deltaTime * moveSpeed;
+         float v = Input.GetAxis("Vertical") * Time.deltaTime * moveSpeed;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+         transform.Translate(new Vector3(h, v, 0f));
+      }
+   }
+}
+*/
 
 /*SECOND
 [RequireComponent(typeof(CharacterController))]
@@ -104,40 +123,53 @@ public class PlayerController : MonoBehaviour
 */
 
 /*
- FIRST
+SCRIPTABLE?
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody))]
-public class PlayerController : MonoBehaviour
-{
+[CreateAssetMenu]
+public class PlayerController : ScriptableObject 
+{ 
+   public FloatData jumpSpeed;
+   public FloatData Gravity;
+    
+   public FloatData MoveX, MoveY, MoveZ;
+   public FloatData RotX, RotY, RotZ;
 
-   public float thrusterForce;
+   private Vector3 moveDirection;
+   private Vector3 rotDirection;
 
-   private Rigidbody rigid;
-   public int health;
-   public float moveSpeed;
-   public GameObject levelManager;
-
-
-   void Start()
+   public virtual void Invoke(CharacterController controller, Transform transform)
    {
-      rigid = GetComponent<Rigidbody>();
-      print(GetComponent<Health>().GetHealth());
+      if (controller.isGrounded)
+      {
+         MoveTran(transform);
+      }
+      else
+      {
+//       Left/Right movement in air allowed
+         //moveDirection.x = Input.GetAxis("Horizontal") * speed;
+         {
+            moveDirection.Set(MoveX.Value, MoveY.Value, MoveZ.value);
+            rotDirection.Set(RotX.Value, RotY.Value, RotZ.Value);
+            transform.Rotate(rotDirection);
+            moveDirection = transform.TransformDirection(moveDirection);
+         }
+      }
+      MoveCon(controller);
    }
 
-   void Update()
+   protected void MoveCon(CharacterController controller)
    {
+      moveDirection.y -= Gravity.Value;
+      controller.Move(moveDirection * Time.deltaTime);
+   }
 
-      if (Input.GetKey(KeyCode.Space))
-      {
-         rigid.AddRelativeForce(new Vector2(0f, thrusterForce));
-
-         //KEYS TO MOVE
-         float h = Input.GetAxis("Horizontal") * Time.deltaTime * moveSpeed;
-         float v = Input.GetAxis("Vertical") * Time.deltaTime * moveSpeed;
-
-         transform.Translate(new Vector3(h, v, 0f));
-      }
+   protected void MoveTran(Transform transform)
+   {
+      moveDirection.Set(MoveX.Value, MoveY.Value, MoveZ.value);
+      rotDirection.Set(RotX.Value, RotY.Value, RotZ.Value);
+      transform.Rotate(rotDirection);
+      moveDirection = transform.TransformDirection(moveDirection);
    }
 }
 */

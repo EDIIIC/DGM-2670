@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
+
 public class ScoreBoard : MonoBehaviour
 {
     public static int scoreValue = 0;
