@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class OrbDestroy : MonoBehaviour {
     
-    void OnCollisionEnter(Collision col)
+    private void OnCollisionEnter(Collision col)
     {
         if (col.gameObject.name == "Orb(Clone)")
         {
-            ScoreBoard.scoreValue += 1;
+            ScoreBoard.scoreValue += 5;
             Destroy(col.gameObject);
         }
     }

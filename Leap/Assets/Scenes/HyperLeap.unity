@@ -3587,7 +3587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6840382b3121c458ea786c91038c650e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MinSpawnTime: 4
+  MinSpawnTime: 5.5
   MaxSpawnTime: 7
   enemies:
   - {fileID: 1481843059740464, guid: 89541abd57dee4674a5b5ab98d3c3614, type: 2}
@@ -8649,7 +8649,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainMenuScene: MainMenu
-  pauseMenu: {fileID: 0}
+  pauseMenu: {fileID: 588744653}
   isPaused: 0
 --- !u!1 &2105906642
 GameObject:
