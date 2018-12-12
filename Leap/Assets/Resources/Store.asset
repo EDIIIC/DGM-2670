@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d79f5fe778a34fd2a01997a01dd3588, type: 3}
   m_Name: Store
   m_EditorClassIdentifier: 
-  Item: {fileID: 1068072923712564, guid: c790dc904f0ed40218f38cb801f84f72, type: 2}
+  Item: {fileID: 1710090305054750, guid: c53a67a480a5a4c068f269d7bfeac5f8, type: 2}
   Purchased: []
   ItemValue: 1
   Cash: {fileID: 11400000, guid: c08ab0b88b91b47c0949eb83e4e9416e, type: 2}
