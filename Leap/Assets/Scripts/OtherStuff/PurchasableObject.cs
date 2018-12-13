@@ -5,14 +5,15 @@ public class PurchasableObject : ScriptableObject
 {
     public Object Item;
     public int Value;
-    public bool Upgrade;
+    
+//    public bool Upgrade;
     public float UsageCount;
     public PurchasableObject UpgradeFrom;
-    public GameAction GetInstanceLocation;
+//    public GameAction GetInstanceLocation;
     private Transform location;
-    public bool Perpetual;
+//    public bool Perpetual;
     public bool Instanciatable;
-    public UnityEvent OnCreate;
+//    public UnityEvent OnCreate;
 
     public void CreateItems()
     {
@@ -25,6 +26,11 @@ public class PurchasableObject : ScriptableObject
         }
     }
     
+    
+    
+    
+    
+    /*
     public void CreateItemsOnParent()
     {
         for (var i = 0; i < UsageCount; i++)
@@ -64,4 +70,5 @@ public class PurchasableObject : ScriptableObject
     {
         location = obj as Transform;
     }
+    */
 }
