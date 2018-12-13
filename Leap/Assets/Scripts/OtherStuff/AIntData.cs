@@ -2,7 +2,7 @@
 
 //[CreateAssetMenu(menuName = "SingleVars/IntData")]
 [CreateAssetMenu(menuName = "SingleVars/IntData")]
-public class IntData : ScriptableObject
+public class AIntData : ScriptableObject
 {
     public int Value;
 }

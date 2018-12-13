@@ -2,12 +2,12 @@
 using UnityEngine;
 
 [CreateAssetMenu(menuName = "Store/Store")]
-public class Store : ScriptableObject
+public class AStore : ScriptableObject
 {
     public Object Item;
     public List<Object> Purchased;
     public int ItemValue;
-    public IntData Cash;
+    public AIntData Cash;
     
     public void Purchase()
     {

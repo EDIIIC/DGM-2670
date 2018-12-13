@@ -2,7 +2,7 @@
 using System.Collections;
 
 [RequireComponent(typeof(CharacterController))]
-public class PlayerController : MonoBehaviour
+public class APlayerController : MonoBehaviour
 {
    CharacterController characterController;
 

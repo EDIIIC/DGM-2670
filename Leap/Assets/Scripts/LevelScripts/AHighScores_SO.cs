@@ -4,7 +4,7 @@ using UnityEngine;
 
 [CreateAssetMenu (fileName = "HighScore")]
 
-public class HighScores_SO : ScriptableObject
+public class AHighScores_SO : ScriptableObject
 {
     public List<int> highScores;
     public int score;

@@ -8,7 +8,7 @@ public class LevelManager : MonoBehaviour
     public static int PlayerCount;
     public static int PlatformCount;
 */
-    public HighScores_SO highScoresSo;
+    public AHighScores_SO highScoresSo;
     public GameObject scoreboard;
 
     

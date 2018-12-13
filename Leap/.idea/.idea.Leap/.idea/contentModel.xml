@@ -8,14 +8,14 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="LevelScripts" t="Include">
-            <e p="ChangeColor.cs" t="Include" />
+            <e p="AChangeColor.cs" t="Include" />
+            <e p="AHighScores_SO.cs" t="Include" />
+            <e p="ANewEvent.cs" t="Include" />
             <e p="ColorData.cs" t="Include" />
-            <e p="HighScores_SO.cs" t="Include" />
             <e p="HyperCount.cs" t="Include" />
             <e p="LevelManager.cs" t="Include" />
             <e p="MenuController.cs" t="Include" />
             <e p="MusicManager.cs" t="Include" />
-            <e p="NewEvent.cs" t="Include" />
             <e p="OrbDestroy.cs" t="Include" />
             <e p="PlatDestroy.cs" t="Include" />
             <e p="PlayerDestroy.cs" t="Include" />
@@ -24,23 +24,23 @@
             <e p="SeatDes.cs" t="Include" />
           </e>
           <e p="MoveScripts" t="Include">
+            <e p="APlayerController.cs" t="Include" />
             <e p="CharacterMovement.cs" t="Include" />
             <e p="MovePattern.cs" t="Include" />
             <e p="MovePatternDual.cs" t="Include" />
             <e p="MovePatternNotGrounded.cs" t="Include" />
             <e p="PlatformEmission.cs" t="Include" />
             <e p="PlatformMove.cs" t="Include" />
-            <e p="PlayerController.cs" t="Include" />
           </e>
           <e p="OtherStuff" t="Include">
+            <e p="AIntData.cs" t="Include" />
+            <e p="AStore.cs" t="Include" />
             <e p="Destroyer.cs" t="Include" />
             <e p="FloatBool.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
-            <e p="IntData.cs" t="Include" />
             <e p="PurchasableObject.cs" t="Include" />
           </e>
-          <e p="Store.cs" t="Include" />
         </e>
       </e>
       <e p="Leap.sln" t="IncludeFlat" />
